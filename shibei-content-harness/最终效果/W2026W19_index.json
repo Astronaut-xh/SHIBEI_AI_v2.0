@@ -1,0 +1,44 @@
+{
+  "issue_id": "W2026W19",
+  "issue_title_zh": "师倍AI · 外刊英语周周练 W2026W19",
+  "issue_date": "2026-05-12",
+  "articles": [
+    {
+      "seq": 1,
+      "file": "W2026W19_article_01.json",
+      "topic": "technology",
+      "source": "China Daily",
+      "status": "completed"
+    },
+    {
+      "seq": 2,
+      "file": "W2026W19_article_02.json",
+      "topic": "environment",
+      "source": "China Daily",
+      "status": "completed"
+    },
+    {
+      "seq": 3,
+      "file": "W2026W19_article_03.json",
+      "topic": "health",
+      "source": "China Daily",
+      "status": "completed"
+    },
+    {
+      "seq": 4,
+      "file": "W2026W19_article_04.json",
+      "topic": "society",
+      "source": "China Daily",
+      "status": "completed"
+    }
+  ],
+  "topic_distribution": {
+    "technology": 1,
+    "environment": 1,
+    "health": 1,
+    "society": 1
+  },
+  "source_distribution": {
+    "China Daily": 4
+  }
+}

@@ -1,0 +1,1586 @@
+{
+  "issue_id": "W2026W19",
+  "issue_date": "2026-05-12",
+  "articles": [
+    {
+      "issue_id": "W2026W19",
+      "article_seq": 1,
+      "source": {
+        "url": "https://www.chinadaily.com.cn/a/202605/09/WS69fe8957a310d6866eb479c4.html",
+        "publication": "China Daily",
+        "topic_category": "technology",
+        "original_title": "AI schools bring innovation prowess",
+        "original_word_count": 694,
+        "found_date": "2026-05-12",
+        "finder_notes": "Interview format article about AI education reform in Chinese universities. Rich in argumentation and analysis, contains long complex sentences, suitable for reading comprehension questions.",
+        "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMjAwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8IS0tIEJvdHRvbSBncmFkaWVudCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYm90dG9tR3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMUU2QkI4IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMUU2QkI4IiBzdG9wLW9wYWNpdHk9IjAuMjUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8IS0tIEJhY2tncm91bmQgZ3JhZGllbnQgLS0+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnR3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRDBFNEY1IiBzdG9wLW9wYWNpdHk9IjAuNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iI0ZGRkZGRiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI0QwRTRGNSIgc3RvcC1vcGFjaXR5PSIwLjM1Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPCEtLSBHbG93IGZvciBub2RlcyAtLT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0ibm9kZUdsb3ciIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTZCQjgiIHN0b3Atb3BhY2l0eT0iMC4zIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFFNkJCOCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KCiAgPCEtLSBCYWNrZ3JvdW5kIC0tPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2JnR3JhZCkiLz4KCiAgPCEtLSBCb3R0b20gZ3JhZGllbnQgb3ZlcmxheSAtLT4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNib3R0b21HcmFkKSIvPgoKICA8IS0tID09PT09IExlZnQgc2lkZTogIkFJIMOXIEVkdWNhdGlvbiIgd2F0ZXJtYXJrIHRleHQgPT09PT0gLS0+CiAgPHRleHQgeD0iMzAiIHk9IjEzMCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxRTZCQjgiIG9wYWNpdHk9IjAuMDkiIGxldHRlci1zcGFjaW5nPSIzIj5BSSDDlyBFZHVjYXRpb248L3RleHQ+CiAgPHRleHQgeD0iMzAiIHk9IjE3MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIyOCIgZmlsbD0iIzFFNkJCOCIgb3BhY2l0eT0iMC4wNiIgbGV0dGVyLXNwYWNpbmc9IjIiPkhpZ2hlciBFZHVjYXRpb24gUmVmb3JtPC90ZXh0PgoKICA8IS0tID09PT09IENpcmN1aXQgbGluZXMgKGJhY2tncm91bmQgbGF5ZXIpID09PT09IC0tPgogIDxnIHN0cm9rZT0iIzFFNkJCOCIgc3Ryb2tlLW9wYWNpdHk9IjAuMTIiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSI+CiAgICA8IS0tIEhvcml6b250YWwgbGluZXMgLS0+CiAgICA8bGluZSB4MT0iODAiIHkxPSI0MCIgeDI9IjI4MCIgeTI9IjQwIi8+CiAgICA8bGluZSB4MT0iMjgwIiB5MT0iNDAiIHgyPSIzODAiIHkyPSI5MCIvPgogICAgPGxpbmUgeDE9IjEwMCIgeTE9IjE2MCIgeDI9IjMwMCIgeTI9IjE2MCIvPgogICAgPGxpbmUgeDE9IjMwMCIgeTE9IjE2MCIgeDI9IjQyMCIgeTI9IjExMCIvPgogICAgPGxpbmUgeDE9IjM1MCIgeTE9IjMwIiB4Mj0iNTUwIiB5Mj0iMzAiLz4KICAgIDxsaW5lIHgxPSI1NTAiIHkxPSIzMCIgeDI9IjYyMCIgeTI9IjcwIi8+CiAgICA8bGluZSB4MT0iNDUwIiB5MT0iMTcwIiB4Mj0iNjUwIiB5Mj0iMTcwIi8+CiAgICA8bGluZSB4MT0iNjUwIiB5MT0iMTcwIiB4Mj0iNzAwIiB5Mj0iMTMwIi8+CiAgICA8IS0tIFZlcnRpY2FsIHN0dWJzIC0tPgogICAgPGxpbmUgeDE9IjI4MCIgeTE9IjQwIiB4Mj0iMjgwIiB5Mj0iNTUiLz4KICAgIDxsaW5lIHgxPSIzMDAiIHkxPSIxNDUiIHgyPSIzMDAiIHkyPSIxNjAiLz4KICAgIDxsaW5lIHgxPSI1NTAiIHkxPSIzMCIgeDI9IjU1MCIgeTI9IjQ4Ii8+CiAgICA8bGluZSB4MT0iNjUwIiB5MT0iMTU1IiB4Mj0iNjUwIiB5Mj0iMTcwIi8+CiAgPC9nPgoKICA8IS0tIENpcmN1aXQgZG90cyBhdCBlbmRwb2ludHMgLS0+CiAgPGcgZmlsbD0iIzFFNkJCOCIgZmlsbC1vcGFjaXR5PSIwLjE1Ij4KICAgIDxjaXJjbGUgY3g9IjgwIiBjeT0iNDAiIHI9IjIuNSIvPgogICAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTYwIiByPSIyLjUiLz4KICAgIDxjaXJjbGUgY3g9IjM1MCIgY3k9IjMwIiByPSIyLjUiLz4KICAgIDxjaXJjbGUgY3g9IjQ1MCIgY3k9IjE3MCIgcj0iMi41Ii8+CiAgICA8Y2lyY2xlIGN4PSIyODAiIGN5PSI1NSIgcj0iMiIvPgogICAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMTQ1IiByPSIyIi8+CiAgICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSI0OCIgcj0iMiIvPgogICAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMTU1IiByPSIyIi8+CiAgPC9nPgoKICA8IS0tID09PT09IE5ldXJhbCBuZXR3b3JrIG5vZGVzIChjZW50ZXItcmlnaHQgYXJlYSkgPT09PT0gLS0+CiAgPGc+CiAgICA8IS0tIE5vZGUgZ2xvd3MgLS0+CiAgICA8Y2lyY2xlIGN4PSI0MjAiIGN5PSI1NSIgcj0iMTgiIGZpbGw9InVybCgjbm9kZUdsb3cpIi8+CiAgICA8Y2lyY2xlIGN4PSI0ODAiIGN5PSIxMDAiIHI9IjIwIiBmaWxsPSJ1cmwoI25vZGVHbG93KSIvPgogICAgPGNpcmNsZSBjeD0iNDIwIiBjeT0iMTQ1IiByPSIxOCIgZmlsbD0idXJsKCNub2RlR2xvdykiLz4KICAgIDxjaXJjbGUgY3g9IjU0MCIgY3k9IjcwIiByPSIxNiIgZmlsbD0idXJsKCNub2RlR2xvdykiLz4KICAgIDxjaXJjbGUgY3g9IjU2MCIgY3k9IjEzMCIgcj0iMTYiIGZpbGw9InVybCgjbm9kZUdsb3cpIi8+CiAgICA8Y2lyY2xlIGN4PSI2MTAiIGN5PSIxMDAiIHI9IjIyIiBmaWxsPSJ1cmwoI25vZGVHbG93KSIvPgoKICAgIDwhLS0gQ29ubmVjdGlvbiBsaW5lcyBiZXR3ZWVuIG5vZGVzIC0tPgogICAgPGcgc3Ryb2tlPSIjMUU2QkI4IiBzdHJva2Utb3BhY2l0eT0iMC4yNSIgc3Ryb2tlLXdpZHRoPSIxLjIiIGZpbGw9Im5vbmUiPgogICAgICA8IS0tIExlZnQgY29sdW1uIHRvIG1pZGRsZSAtLT4KICAgICAgPGxpbmUgeDE9IjQyMCIgeTE9IjU1IiB4Mj0iNDgwIiB5Mj0iMTAwIi8+CiAgICAgIDxsaW5lIHgxPSI0MjAiIHkxPSIxNDUiIHgyPSI0ODAiIHkyPSIxMDAiLz4KICAgICAgPGxpbmUgeDE9IjQyMCIgeTE9IjU1IiB4Mj0iNTQwIiB5Mj0iNzAiLz4KICAgICAgPGxpbmUgeDE9IjQyMCIgeTE9IjE0NSIgeDI9IjU2MCIgeTI9IjEzMCIvPgogICAgICA8IS0tIE1pZGRsZSB0byByaWdodCAtLT4KICAgICAgPGxpbmUgeDE9IjQ4MCIgeTE9IjEwMCIgeDI9IjU0MCIgeTI9IjcwIi8+CiAgICAgIDxsaW5lIHgxPSI0ODAiIHkxPSIxMDAiIHgyPSI1NjAiIHkyPSIxMzAiLz4KICAgICAgPGxpbmUgeDE9IjQ4MCIgeTE9IjEwMCIgeDI9IjYxMCIgeTI9IjEwMCIvPgogICAgICA8bGluZSB4MT0iNTQwIiB5MT0iNzAiIHgyPSI2MTAiIHkyPSIxMDAiLz4KICAgICAgPGxpbmUgeDE9IjU2MCIgeTE9IjEzMCIgeDI9IjYxMCIgeTI9IjEwMCIvPgogICAgICA8IS0tIENyb3NzIGNvbm5lY3Rpb25zIC0tPgogICAgICA8bGluZSB4MT0iNDIwIiB5MT0iNTUiIHgyPSI0ODAiIHkyPSIxMDAiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIgc3Ryb2tlLW9wYWNpdHk9IjAuMTIiLz4KICAgICAgPGxpbmUgeDE9IjU0MCIgeTE9IjcwIiB4Mj0iNTYwIiB5Mj0iMTMwIiBzdHJva2UtZGFzaGFycmF5PSIzLDMiIHN0cm9rZS1vcGFjaXR5PSIwLjEyIi8+CiAgICA8L2c+CgogICAgPCEtLSBOb2RlIGNpcmNsZXMgLS0+CiAgICA8ZyBmaWxsPSIjMUU2QkI4IiBmaWxsLW9wYWNpdHk9IjAuNjUiPgogICAgICA8Y2lyY2xlIGN4PSI0MjAiIGN5PSI1NSIgcj0iNiIvPgogICAgICA8Y2lyY2xlIGN4PSI0MjAiIGN5PSIxNDUiIHI9IjYiLz4KICAgIDwvZz4KICAgIDxnIGZpbGw9IiMxRTZCQjgiIGZpbGwtb3BhY2l0eT0iMC43NSI+CiAgICAgIDxjaXJjbGUgY3g9IjQ4MCIgY3k9IjEwMCIgcj0iNyIvPgogICAgPC9nPgogICAgPGcgZmlsbD0iIzFFNkJCOCIgZmlsbC1vcGFjaXR5PSIwLjU1Ij4KICAgICAgPGNpcmNsZSBjeD0iNTQwIiBjeT0iNzAiIHI9IjUuNSIvPgogICAgICA8Y2lyY2xlIGN4PSI1NjAiIGN5PSIxMzAiIHI9IjUuNSIvPgogICAgPC9nPgogICAgPGcgZmlsbD0iIzFFNkJCOCIgZmlsbC1vcGFjaXR5PSIwLjg1Ij4KICAgICAgPGNpcmNsZSBjeD0iNjEwIiBjeT0iMTAwIiByPSI4Ii8+CiAgICA8L2c+CiAgICA8IS0tIE5vZGUgaW5uZXIgaGlnaGxpZ2h0cyAtLT4KICAgIDxnIGZpbGw9IndoaXRlIiBmaWxsLW9wYWNpdHk9IjAuNSI+CiAgICAgIDxjaXJjbGUgY3g9IjQxOSIgY3k9IjUzIiByPSIyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjQ3OSIgY3k9Ijk4IiByPSIyLjUiLz4KICAgICAgPGNpcmNsZSBjeD0iNDE5IiBjeT0iMTQzIiByPSIyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjUzOSIgY3k9IjY4IiByPSIxLjgiLz4KICAgICAgPGNpcmNsZSBjeD0iNTU5IiBjeT0iMTI4IiByPSIxLjgiLz4KICAgICAgPGNpcmNsZSBjeD0iNjA4IiBjeT0iOTgiIHI9IjIuOCIvPgogICAgPC9nPgogIDwvZz4KCiAgPCEtLSA9PT09PSBVbml2ZXJzaXR5IGJ1aWxkaW5nIHNpbGhvdWV0dGUgKHJpZ2h0IHNpZGUpID09PT09IC0tPgogIDxnIGZpbGw9IiMxRTZCQjgiIGZpbGwtb3BhY2l0eT0iMC4xOCI+CiAgICA8IS0tIE1haW4gYnVpbGRpbmcgLS0+CiAgICA8cmVjdCB4PSI2ODAiIHk9IjgwIiB3aWR0aD0iNTAiIGhlaWdodD0iNzAiLz4KICAgIDwhLS0gTGVmdCB3aW5nIC0tPgogICAgPHJlY3QgeD0iNjYwIiB5PSIxMDAiIHdpZHRoPSIyNSIgaGVpZ2h0PSI1MCIvPgogICAgPCEtLSBSaWdodCB3aW5nIC0tPgogICAgPHJlY3QgeD0iNzI1IiB5PSI5NSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjU1Ii8+CiAgICA8IS0tIFRvd2VyIC8gc3BpcmUgLS0+CiAgICA8cmVjdCB4PSI2OTgiIHk9IjQwIiB3aWR0aD0iMTQiIGhlaWdodD0iNDAiLz4KICAgIDxwb2x5Z29uIHBvaW50cz0iNjk4LDQwIDcwNSwxOCA3MTIsNDAiLz4KICAgIDwhLS0gQ3Jvc3Mgb24gdG9wIC0tPgogICAgPGxpbmUgeDE9IjcwNSIgeTE9IjE4IiB4Mj0iNzA1IiB5Mj0iMTIiIHN0cm9rZT0iIzFFNkJCOCIgc3Ryb2tlLW9wYWNpdHk9IjAuMTgiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPGxpbmUgeDE9IjcwMSIgeTE9IjE1IiB4Mj0iNzA5IiB5Mj0iMTUiIHN0cm9rZT0iIzFFNkJCOCIgc3Ryb2tlLW9wYWNpdHk9IjAuMTgiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgICA8IS0tIFdpbmRvd3Mgb24gbWFpbiBidWlsZGluZyAtLT4KICAgIDxnIGZpbGw9IiNEMEU0RjUiIGZpbGwtb3BhY2l0eT0iMC41Ij4KICAgICAgPHJlY3QgeD0iNjg3IiB5PSI5MCIgd2lkdGg9IjYiIGhlaWdodD0iOCIgcng9IjEiLz4KICAgICAgPHJlY3QgeD0iNjk5IiB5PSI5MCIgd2lkdGg9IjYiIGhlaWdodD0iOCIgcng9IjEiLz4KICAgICAgPHJlY3QgeD0iNzExIiB5PSI5MCIgd2lkdGg9IjYiIGhlaWdodD0iOCIgcng9IjEiLz4KICAgICAgPHJlY3QgeD0iNjg3IiB5PSIxMDgiIHdpZHRoPSI2IiBoZWlnaHQ9IjgiIHJ4PSIxIi8+CiAgICAgIDxyZWN0IHg9IjY5OSIgeT0iMTA4IiB3aWR0aD0iNiIgaGVpZ2h0PSI4IiByeD0iMSIvPgogICAgICA8cmVjdCB4PSI3MTEiIHk9IjEwOCIgd2lkdGg9IjYiIGhlaWdodD0iOCIgcng9IjEiLz4KICAgICAgPHJlY3QgeD0iNjg3IiB5PSIxMjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjgiIHJ4PSIxIi8+CiAgICAgIDxyZWN0IHg9IjY5OSIgeT0iMTI2IiB3aWR0aD0iNiIgaGVpZ2h0PSI4IiByeD0iMSIvPgogICAgICA8cmVjdCB4PSI3MTEiIHk9IjEyNiIgd2lkdGg9IjYiIGhlaWdodD0iOCIgcng9IjEiLz4KICAgIDwvZz4KICAgIDwhLS0gV2luZG93cyBvbiBsZWZ0IHdpbmcgLS0+CiAgICA8ZyBmaWxsPSIjRDBFNEY1IiBmaWxsLW9wYWNpdHk9IjAuNCI+CiAgICAgIDxyZWN0IHg9IjY2NiIgeT0iMTEwIiB3aWR0aD0iNSIgaGVpZ2h0PSI3IiByeD0iMSIvPgogICAgICA8cmVjdCB4PSI2NjYiIHk9IjEyNSIgd2lkdGg9IjUiIGhlaWdodD0iNyIgcng9IjEiLz4KICAgICAgPHJlY3QgeD0iNjY2IiB5PSIxNDAiIHdpZHRoPSI1IiBoZWlnaHQ9IjciIHJ4PSIxIi8+CiAgICA8L2c+CiAgICA8IS0tIFdpbmRvd3Mgb24gcmlnaHQgd2luZyAtLT4KICAgIDxnIGZpbGw9IiNEMEU0RjUiIGZpbGwtb3BhY2l0eT0iMC40Ij4KICAgICAgPHJlY3QgeD0iNzMzIiB5PSIxMDYiIHdpZHRoPSI1IiBoZWlnaHQ9IjciIHJ4PSIxIi8+CiAgICAgIDxyZWN0IHg9IjczMyIgeT0iMTIxIiB3aWR0aD0iNSIgaGVpZ2h0PSI3IiByeD0iMSIvPgogICAgICA8cmVjdCB4PSI3MzMiIHk9IjEzNiIgd2lkdGg9IjUiIGhlaWdodD0iNyIgcng9IjEiLz4KICAgICAgPHJlY3QgeD0iNzQzIiB5PSIxMDYiIHdpZHRoPSI1IiBoZWlnaHQ9IjciIHJ4PSIxIi8+CiAgICAgIDxyZWN0IHg9Ijc0MyIgeT0iMTIxIiB3aWR0aD0iNSIgaGVpZ2h0PSI3IiByeD0iMSIvPgogICAgICA8cmVjdCB4PSI3NDMiIHk9IjEzNiIgd2lkdGg9IjUiIGhlaWdodD0iNyIgcng9IjEiLz4KICAgIDwvZz4KICAgIDwhLS0gRG9vciAtLT4KICAgIDxyZWN0IHg9IjY5OSIgeT0iMTQwIiB3aWR0aD0iMTIiIGhlaWdodD0iMTAiIHJ4PSI2IiByeT0iMyIgZmlsbD0iI0QwRTRGNSIgZmlsbC1vcGFjaXR5PSIwLjQiLz4KICAgIDwhLS0gQmFzZS9ncm91bmQgbGluZSAtLT4KICAgIDxyZWN0IHg9IjY1NSIgeT0iMTUwIiB3aWR0aD0iMTA1IiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgICA8IS0tIFN0ZXBzIC0tPgogICAgPHJlY3QgeD0iNjk1IiB5PSIxNTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIzIiByeD0iMC41IiBmaWxsPSIjMUU2QkI4IiBmaWxsLW9wYWNpdHk9IjAuMTIiLz4KICA8L2c+CgogIDwhLS0gPT09PT0gR3JhZHVhdGlvbiBjYXAgPT09PT0gLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjQwLCA0NSkgcm90YXRlKC0xMikiPgogICAgPCEtLSBDYXAgdG9wIChkaWFtb25kL2JvYXJkKSAtLT4KICAgIDxwb2x5Z29uIHBvaW50cz0iMCwtNiAyMiw0IDAsMTQgLTIyLDQiIGZpbGw9IiMxRTZCQjgiIGZpbGwtb3BhY2l0eT0iMC41NSIvPgogICAgPCEtLSBDYXAgdG9wIGhpZ2hsaWdodCAtLT4KICAgIDxwb2x5Z29uIHBvaW50cz0iMCwtNiAyMiw0IDAsMiAtMjIsNCIgZmlsbD0iIzFFNkJCOCIgZmlsbC1vcGFjaXR5PSIwLjI1Ii8+CiAgICA8IS0tIFNrdWxsIGNhcCAtLT4KICAgIDxlbGxpcHNlIGN4PSIwIiBjeT0iNyIgcng9IjEyIiByeT0iNiIgZmlsbD0iIzFFNkJCOCIgZmlsbC1vcGFjaXR5PSIwLjQiLz4KICAgIDwhLS0gVGFzc2VsIGxpbmUgLS0+CiAgICA8bGluZSB4MT0iMCIgeTE9IjQiIHgyPSIyMiIgeTI9IjQiIHN0cm9rZT0iIzFFNkJCOCIgc3Ryb2tlLW9wYWNpdHk9IjAuNCIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICAgIDwhLS0gVGFzc2VsIGVuZCAtLT4KICAgIDxyZWN0IHg9IjIxIiB5PSI0IiB3aWR0aD0iMyIgaGVpZ2h0PSIxMCIgcng9IjEiIGZpbGw9IiMxRTZCQjgiIGZpbGwtb3BhY2l0eT0iMC41Ii8+CiAgICA8bGluZSB4MT0iMjIuNSIgeTE9IjE0IiB4Mj0iMjIuNSIgeTI9IjIwIiBzdHJva2U9IiMxRTZCQjgiIHN0cm9rZS1vcGFjaXR5PSIwLjMiIHN0cm9rZS13aWR0aD0iMSIvPgogIDwvZz4KCiAgPCEtLSA9PT09PSBBZGRpdGlvbmFsIGNpcmN1aXQvdGVjaCBkZWNvcmF0aW9uID09PT09IC0tPgogIDxnIHN0cm9rZT0iIzFFNkJCOCIgc3Ryb2tlLW9wYWNpdHk9IjAuMDgiIHN0cm9rZS13aWR0aD0iMC44IiBmaWxsPSJub25lIj4KICAgIDxyZWN0IHg9IjI1MCIgeT0iNTUiIHdpZHRoPSI0MCIgaGVpZ2h0PSIyNSIgcng9IjMiLz4KICAgIDxyZWN0IHg9IjMxMCIgeT0iMTIwIiB3aWR0aD0iMzUiIGhlaWdodD0iMjAiIHJ4PSIzIi8+CiAgICA8bGluZSB4MT0iMjcwIiB5MT0iODAiIHgyPSIyNzAiIHkyPSI5MCIvPgogICAgPGxpbmUgeDE9IjI3MCIgeTE9IjkwIiB4Mj0iMzEwIiB5Mj0iMTIwIi8+CiAgPC9nPgoKICA8IS0tIFNtYWxsIHRlY2ggc3F1YXJlcyAtLT4KICA8ZyBmaWxsPSIjMUU2QkI4IiBmaWxsLW9wYWNpdHk9IjAuMSI+CiAgICA8cmVjdCB4PSIyNTgiIHk9IjYzIiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiByeD0iMC41Ii8+CiAgICA8cmVjdCB4PSIyNjYiIHk9IjYzIiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiByeD0iMC41Ii8+CiAgICA8cmVjdCB4PSIyNzQiIHk9IjYzIiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiByeD0iMC41Ii8+CiAgICA8cmVjdCB4PSIzMTgiIHk9IjEyNiIgd2lkdGg9IjQiIGhlaWdodD0iNCIgcng9IjAuNSIvPgogICAgPHJlY3QgeD0iMzI2IiB5PSIxMjYiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIHJ4PSIwLjUiLz4KICA8L2c+CgogIDwhLS0gPT09PT0gVG9wIGFjY2VudCBsaW5lID09PT09IC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI4MDAiIGhlaWdodD0iMyIgZmlsbD0iIzFFNkJCOCIgZmlsbC1vcGFjaXR5PSIwLjYiLz4KCiAgPCEtLSA9PT09PSBTdWJ0bGUgYm90dG9tIGxpbmUgPT09PT0gLS0+CiAgPHJlY3QgeD0iMCIgeT0iMTk3IiB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9IiMxRTZCQjgiIGZpbGwtb3BhY2l0eT0iMC4yIi8+Cjwvc3ZnPg=="
+      },
+      "pipeline_status": {
+        "article_finder": "completed",
+        "article_rewriter": "completed",
+        "question_generator": "completed",
+        "explanation_generator": "completed",
+        "takeaway_generator": "completed",
+        "content_reviewer": "completed",
+        "current_step": "content_reviewer",
+        "retry_count": 0,
+        "max_retries": 2,
+        "last_modified": "2026-05-12T02:00:00Z"
+      },
+      "rewritten_article": {
+        "title_en": "AI Schools: A New Model for Higher Education Reform",
+        "title_zh": "人工智能学院：高等教育改革的新模式",
+        "body": "In recent years, approximately one hundred universities in China have collaborated with enterprises and research institutes to establish schools dedicated to artificial intelligence, marking a significant step toward fostering AI talents and driving higher education reform.\n\nThree prominent differences distinguish these new AI schools from traditional university departments. First, their training orientation focuses on real-world business problems and socioeconomic needs rather than conventional disciplinary teaching. Second, AI schools allocate resources specifically for computing power, data, and industrial projects, which often demands unconventional investment, whereas traditional departments must balance resource distribution across multiple disciplines. Third, AI schools operate with more flexible management mechanisms and higher decision-making efficiency.\n\nBy breaking down disciplinary barriers, deepening industry-university-research integration, and optimizing personalized vocational training, AI schools provide a distinctive model for talent cultivation in cutting-edge fields such as original research and scientific application. Under the cooperation framework, universities handle student recruitment and academic degree approval, while AI schools take charge of curriculum design and research practice.\n\nHowever, discrepancies in management systems and academic cultures between universities and AI schools lead to inefficiencies in communication and resource allocation, and high coordination costs hinder curriculum and practice integration. Furthermore, unimplemented mechanisms for the transformation of achievements and benefit distribution affect the enthusiasm of teachers and students, making it difficult to meet the personalized training needs of students with interdisciplinary backgrounds.\n\nUniversities seek preferential treatment in resource allocation from educational departments to expand undergraduate admissions and attract high-quality students. They also need resource-sharing policies to establish long-term mechanisms for sharing computing power and data resources, which would reduce access barriers for teachers and students and ultimately improve the integrated system for talent cultivation.",
+        "word_count": 275,
+        "long_sentences_count": 6,
+        "paragraphs": [
+          {
+            "index": 0,
+            "text": "In recent years, approximately one hundred universities in China have collaborated with enterprises and research institutes to establish schools dedicated to artificial intelligence, marking a significant step toward fostering AI talents and driving higher education reform.",
+            "word_count": 36
+          },
+          {
+            "index": 1,
+            "text": "Three prominent differences distinguish these new AI schools from traditional university departments. First, their training orientation focuses on real-world business problems and socioeconomic needs rather than conventional disciplinary teaching. Second, AI schools allocate resources specifically for computing power, data, and industrial projects, which often demands unconventional investment, whereas traditional departments must balance resource distribution across multiple disciplines. Third, AI schools operate with more flexible management mechanisms and higher decision-making efficiency.",
+            "word_count": 70
+          },
+          {
+            "index": 2,
+            "text": "By breaking down disciplinary barriers, deepening industry-university-research integration, and optimizing personalized vocational training, AI schools provide a distinctive model for talent cultivation in cutting-edge fields such as original research and scientific application. Under the cooperation framework, universities handle student recruitment and academic degree approval, while AI schools take charge of curriculum design and research practice.",
+            "word_count": 55
+          },
+          {
+            "index": 3,
+            "text": "However, discrepancies in management systems and academic cultures between universities and AI schools lead to inefficiencies in communication and resource allocation, and high coordination costs hinder curriculum and practice integration. Furthermore, unimplemented mechanisms for the transformation of achievements and benefit distribution affect the enthusiasm of teachers and students, making it difficult to meet the personalized training needs of students with interdisciplinary backgrounds.",
+            "word_count": 62
+          },
+          {
+            "index": 4,
+            "text": "Universities seek preferential treatment in resource allocation from educational departments to expand undergraduate admissions and attract high-quality students. They also need resource-sharing policies to establish long-term mechanisms for sharing computing power and data resources, which would reduce access barriers for teachers and students and ultimately improve the integrated system for talent cultivation.",
+            "word_count": 52
+          }
+        ],
+        "rewrite_version": 1,
+        "rewriter_notes": "改写遵循高考D篇标准：1)词数275，在250-350范围内；2)6个超过25词的长难句，满足至少2个的要求；3)5个段落，每段有明确主题句（段1引出背景、段2三大差异、段3合作模式与优势、段4面临的挑战、段5政策诉求），段间通过逻辑衔接词（Three prominent differences/By breaking down/However/Universities seek）实现过渡；4)全文无缩写、无俚语、无感叹句；5)未捏造原文没有的信息；6)超纲词控制在5个以内（disciplinary、vocational、interdisciplinary、preferential、integration），核心术语如computing power、industry-university-research integration均有上下文线索支撑；7)保留了关键技术概念（AI schools、computing power、data resources、industrial projects），简化了技术细节。"
+      },
+      "questions": [
+        {
+          "q_id": "Q1",
+          "q_type": "main_idea",
+          "stem": "What is the main idea of the passage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chinese universities have built AI schools to replace traditional departments entirely.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "AI schools present a new model for higher education reform with both advantages and challenges.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Universities should invest more computing power and data resources in AI research.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The cooperation between universities and enterprises has solved the problems in AI education.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "B",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "absolutization",
+              "explanation": "原文仅说明AI学校与传统院系有三个显著差异，从未提到AI学校将'完全取代'traditional departments，absolutization将部分差异夸大为完全替代。"
+            },
+            {
+              "option": "C",
+              "trap_type": "subject_swap",
+              "explanation": "原文主体是AI schools作为高等教育改革的新模式，而非泛泛讨论'大学应在AI研究中投资更多算力和数据资源'，偷换了主语。"
+            },
+            {
+              "option": "D",
+              "trap_type": "stance_reversal",
+              "explanation": "原文P3明确指出合作中存在管理差异、沟通低效、协调成本高等问题，且机制尚未落实，D选项将'存在问题'反转为'已解决问题'，立场相反。"
+            }
+          ],
+          "source_paragraph_index": null,
+          "difficulty": "easy"
+        },
+        {
+          "q_id": "Q2",
+          "q_type": "detail",
+          "stem": "According to Paragraph 2, what is one difference between AI schools and traditional departments?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AI schools handle student recruitment and academic degree approval.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Traditional departments must balance resource distribution across multiple disciplines.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "AI schools focus on conventional disciplinary teaching rather than business problems.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Traditional departments invest resources specifically for computing power and data.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "B",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "paragraph_swap",
+              "explanation": "'handle student recruitment and academic degree approval'是P3中universities的职责，而非P2中AI schools的特征，将P3的信息错位到P2的对比框架中。"
+            },
+            {
+              "option": "C",
+              "trap_type": "stance_reversal",
+              "explanation": "原文P2明确说AI schools focus on 'real-world business problems rather than conventional disciplinary teaching'，C选项将两者关系颠倒，声称AI学校专注于传统教学而非商业问题。"
+            },
+            {
+              "option": "D",
+              "trap_type": "subject_swap",
+              "explanation": "原文P2说AI schools allocate resources specifically for computing power and data，D选项将主语替换为traditional departments，张冠李戴。"
+            }
+          ],
+          "source_paragraph_index": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q_id": "Q3",
+          "q_type": "word_meaning",
+          "stem": "What does the word \"discrepancies\" in Paragraph 4 probably mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Agreements",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Differences",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Improvements",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Similarities",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "B",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "stance_reversal",
+              "explanation": "'Agreements'与discrepancies意思相反，discrepancies意为差异、不一致，而agreements意为一致、协议，完全颠倒词义。"
+            },
+            {
+              "option": "C",
+              "trap_type": "paragraph_swap",
+              "explanation": "'Improvements'是P5中大学寻求政策支持后可能带来的结果，而非P4中描述问题的原因词，将后文积极结果错位为问题段落的关键词义。"
+            },
+            {
+              "option": "D",
+              "trap_type": "absolutization",
+              "explanation": "'Similarities'与differences相反，但学生在看到'between universities and AI schools'时可能联想到两者间的联系，absolutization将'差异'绝对化为'相似'。"
+            }
+          ],
+          "source_paragraph_index": 3,
+          "difficulty": "medium"
+        },
+        {
+          "q_id": "Q4",
+          "q_type": "inference",
+          "stem": "What can be inferred about the current relationship between universities and AI schools?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They share computing power and data resources smoothly through established policies.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Universities completely control curriculum design and research practice in AI schools.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Their cooperation is affected by unresolved issues in management and benefit distribution.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "AI schools have already overcome all barriers in communication and resource allocation.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "C",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "paragraph_swap",
+              "explanation": "P5说大学'need resource-sharing policies'来建立共享机制，说明目前尚未建立，A选项将P5的期望（尚未实现）与当前现实混淆，错位了段落时态。"
+            },
+            {
+              "option": "B",
+              "trap_type": "subject_swap",
+              "explanation": "P3明确说universities handle student recruitment and academic degree approval，而AI schools take charge of curriculum design and research practice，B选项将AI学校的职责错误归于大学，主语偷换。"
+            },
+            {
+              "option": "D",
+              "trap_type": "absolutization",
+              "explanation": "P3指出discrepancies lead to inefficiencies，high coordination costs hinder integration，说明障碍远未克服，D选项用'already overcome all barriers'将未解决问题绝对化为已全部解决。"
+            }
+          ],
+          "source_paragraph_index": 3,
+          "difficulty": "hard"
+        }
+      ],
+      "takeaways": {
+        "new_collocations": [
+          {
+            "collocation": "foster talents",
+            "meaning_zh": "培养人才",
+            "example_sentence": "These new AI schools mark a significant step toward fostering AI talents and driving higher education reform.",
+            "source_paragraph_index": 0
+          },
+          {
+            "collocation": "allocate resources for",
+            "meaning_zh": "为……分配资源",
+            "example_sentence": "AI schools allocate resources specifically for computing power, data, and industrial projects.",
+            "source_paragraph_index": 1
+          },
+          {
+            "collocation": "break down barriers",
+            "meaning_zh": "打破壁垒",
+            "example_sentence": "By breaking down disciplinary barriers, AI schools provide a distinctive model for talent cultivation.",
+            "source_paragraph_index": 2
+          },
+          {
+            "collocation": "take charge of",
+            "meaning_zh": "负责；掌管",
+            "example_sentence": "AI schools take charge of curriculum design and research practice.",
+            "source_paragraph_index": 2
+          },
+          {
+            "collocation": "seek preferential treatment",
+            "meaning_zh": "寻求优惠待遇",
+            "example_sentence": "Universities seek preferential treatment in resource allocation from educational departments.",
+            "source_paragraph_index": 4
+          }
+        ],
+        "familiar_words_unfamiliar_meanings": [
+          {
+            "word": "orientation",
+            "familiar_meaning": "方向；方位（指空间方向）",
+            "new_meaning_in_context": "定位；导向（指培养目标和方向定位）",
+            "example_sentence": "Their training orientation focuses on real-world business problems and socioeconomic needs.",
+            "source_paragraph_index": 1
+          },
+          {
+            "word": "charge",
+            "familiar_meaning": "收费；指控（名词/动词常见义）",
+            "new_meaning_in_context": "负责；掌管（take charge of 固定搭配）",
+            "example_sentence": "AI schools take charge of curriculum design and research practice.",
+            "source_paragraph_index": 2
+          },
+          {
+            "word": "mechanism",
+            "familiar_meaning": "机械装置；机制（物理含义）",
+            "new_meaning_in_context": "机制；制度（指管理体系中的运行机制）",
+            "example_sentence": "Unimplemented mechanisms for the transformation of achievements and benefit distribution affect the enthusiasm of teachers and students.",
+            "source_paragraph_index": 3
+          }
+        ],
+        "common_errors": [
+          {
+            "error_description": "绝对化陷阱：将原文的部分差异、部分问题夸大为'完全取代''全部解决'等绝对表述",
+            "related_q_id": "Q1",
+            "tip": "看到entirely、completely、all等绝对化词汇时，回原文核对是否真的有如此极端的表述，原文往往只说'存在差异'而非'完全取代'。"
+          },
+          {
+            "error_description": "立场反转陷阱：将原文的对比关系或因果逻辑颠倒，如把'AI学校关注商业问题而非传统教学'反转为'AI学校关注传统教学而非商业问题'",
+            "related_q_id": "Q2",
+            "tip": "遇到rather than、instead of、whereas等对比结构时，务必分清对比的两端谁在前谁在后，选项常将两端颠倒制造陷阱。"
+          },
+          {
+            "error_description": "反义词干扰陷阱：词义猜测题中用目标词的反义词作干扰，如用agreements干扰discrepancies、用similarities干扰differences",
+            "related_q_id": "Q3",
+            "tip": "词义猜测时先判断语境的感情色彩和因果逻辑：导致'低效'和'阻碍'的原因应该是'差异/不一致'，而非'一致/相似'，反义词往往与语境逻辑矛盾。"
+          },
+          {
+            "error_description": "时态错位陷阱：将原文中尚未实现的期望或诉求当作已经发生的事实",
+            "related_q_id": "Q4",
+            "tip": "注意原文中的need、seek、would等词，它们表示'尚未实现的需求或期望'，选项若用established、already、smoothly等词则犯了时态错位，将期望当作现实。"
+          }
+        ],
+        "takeaway_version": 1
+      },
+      "explanations": [
+        {
+          "q_id": "Q1",
+          "reasoning_chain": "本文第1段第1句指出中国约一百所大学与企业合作建立AI学院，是推动高等教育改革的重要举措；第2段详述AI学院相比传统院系的三大优势差异；第3段进一步说明AI学院在人才培养方面的独特模式；第4段用However转折，指出合作中存在的管理差异、沟通低效和机制未落实等问题；第5段提出大学的政策诉求。全文围绕AI学院作为高等教育改革新模式展开，既涵盖优势也涉及挑战，因此B选项'AI学院呈现了高等教育改革的新模式，既有优势也有挑战'准确概括了文章主旨。",
+          "elimination_chain": "A选项属于绝对化陷阱，原文第2段仅说明AI学院与传统院系存在三个显著差异，从未提及AI学校将'完全取代（entirely）'传统院系，entirely一词将部分差异夸大为完全替代，违背原文语意。C选项属于偷换主语陷阱，原文的主体是AI schools作为高等教育改革的新模式，而非泛泛讨论'大学应在AI研究中投资更多算力和数据资源'，原文第5段提到算力和数据资源是在资源共享受阻的语境下提出的诉求，而非文章核心论点，C选项偷换了论述主体和焦点。D选项属于立场反转陷阱，原文第4段明确指出合作中存在管理差异导致沟通低效、高协调成本阻碍课程整合、成果转化与利益分配机制未落实等问题，D选项却说合作'已经解决了（has solved）'AI教育中的问题，将'存在问题'反转为'已解决问题'，与原文立场完全相反。",
+          "test_point_one_liner": "主旨大意题：全文兼顾利弊的概括能力",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q2",
+          "reasoning_chain": "题目要求依据第2段找出AI学院与传统院系的一个差异。第2段第3句明确指出：'AI schools allocate resources specifically for computing power, data, and industrial projects...whereas traditional departments must balance resource distribution across multiple disciplines.'其中whereas引导对比，说明传统院系必须在多个学科之间平衡资源分配，这正是两者在资源分配方式上的差异，因此B选项'Traditional departments must balance resource distribution across multiple disciplines'与原文表述一致，为正确答案。",
+          "elimination_chain": "A选项属于段落错位陷阱，原文第3段第2句明确说明'universities handle student recruitment and academic degree approval'，这是大学而非AI学院的职责，且该信息出现在第3段而非第2段，A选项将第3段的信息错位到第2段的对比框架中，同时主语也错了。C选项属于立场反转陷阱，原文第2段第2句明确说AI schools focus on 'real-world business problems rather than conventional disciplinary teaching'，即AI学院关注现实商业问题而非传统学科教学，C选项将其关系完全颠倒，声称AI学院专注于传统学科教学而非商业问题，与原文意思相反。D选项属于偷换主语陷阱，原文第2段第3句说的是'AI schools allocate resources specifically for computing power and data'，即AI学院专门为算力和数据分配资源，D选项将主语偷换为traditional departments（传统院系），张冠李戴，完全颠倒了原文的主体归属。",
+          "test_point_one_liner": "细节理解题：段落内对比信息的精准定位",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q3",
+          "reasoning_chain": "题目要求推测第4段中discrepancies的词义。第4段第1句为：'However, discrepancies in management systems and academic cultures between universities and AI schools lead to inefficiencies in communication and resource allocation'。从上下文逻辑推断：该句以However转折，说明后面是负面情况；discrepancies导致了沟通和资源配置的低效（inefficiencies），说明discrepancies是产生问题的原因；且discrepancies发生在大学和AI学院的管理体系与学术文化之间，两者之间的'不一致、差异'才会导致沟通低效。同时，第2段已经指出AI学院与传统院系存在三大差异，discrepancies正是对这种差异的进一步确认。因此B选项'Differences'最符合语境词义。",
+          "elimination_chain": "A选项属于立场反转陷阱，Agreements意为'一致、协议'，与discrepancies的词义完全相反。从语境看，如果是'一致'导致了低效和沟通问题，逻辑上不成立；正是因为两者之间存在差异和不一致，才会产生摩擦和低效，因此A选项是反义词干扰。C选项属于段落错位陷阱，Improvements意为'改进、改善'，这是第5段中大学寻求政策支持后可能带来的积极结果，而非第4段中导致问题的原因词；将后文的积极结果错位为问题段落的关键词义，既不符合语境逻辑，也不符合该段描述问题的语义色彩。D选项属于概念混淆陷阱，Similarities意为'相似之处'，与differences意思相反；学生看到'between universities and AI schools'时可能联想到两者间的联系和共性，但第4段整段在阐述问题和冲突，由差异和不一致导致低效才符合逻辑，相似之处不会导致沟通障碍，因此D选项违背了上下文的因果逻辑。",
+          "test_point_one_liner": "词义猜测题：上下文因果逻辑推断词义",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q4",
+          "reasoning_chain": "题目要求推断大学与AI学院当前的关系状况。第4段第1句指出'discrepancies in management systems and academic cultures between universities and AI schools lead to inefficiencies in communication and resource allocation, and high coordination costs hinder curriculum and practice integration'，说明管理体系和学术文化的差异导致沟通低效和高协调成本。第4段第2句进一步指出'unimplemented mechanisms for the transformation of achievements and benefit distribution affect the enthusiasm of teachers and students'，说明成果转化和利益分配机制尚未落实，影响了师生积极性。综合推断，大学与AI学院的合作受到管理差异和利益分配未解决等问题的困扰，因此C选项'Their cooperation is affected by unresolved issues in management and benefit distribution'是对原文的合理推断。",
+          "elimination_chain": "A选项属于时态错位陷阱，原文第5段第2句说大学'need resource-sharing policies to establish long-term mechanisms for sharing computing power and data resources'，need一词表明资源共享受阻是当前的现状，共享政策尚未建立，而A选项说'smoothly through established policies'，将尚未实现的期望当作已经顺畅运作的现实，时态和事实均与原文不符。B选项属于偷换主语陷阱，原文第3段第2句明确分工：'universities handle student recruitment and academic degree approval, while AI schools take charge of curriculum design and research practice'，课程设计和科研实践是AI学院的职责，而非大学'完全控制（completely control）'的范畴，B选项既偷换了职责主体，又用了completely的绝对化表述。D选项属于绝对化陷阱，原文第4段指出discrepancies导致inefficiencies、high coordination costs阻碍整合、机制未落实影响师生积极性，这些都是尚未克服的障碍，D选项却说'already overcome all barriers'，将未解决的问题绝对化为已全部解决，both与all的双重绝对化表述与原文的现实困境形成鲜明矛盾。",
+          "test_point_one_liner": "推理判断题：由问题段落推断合作关系的现状",
+          "explanation_version": 1
+        }
+      ],
+      "review": {
+        "review_version": 1,
+        "overall_pass": true,
+        "scores": {
+          "fluency": 8,
+          "unique_correct_answer": 9,
+          "explanation_persuasiveness": 8,
+          "distractor_reasonableness": 8,
+          "takeaway_usefulness": 8
+        },
+        "dimension_reviews": {
+          "fluency": {
+            "pass": true,
+            "comment": "文章语言自然流畅，学术文体风格统一，无明显语法错误。段落间衔接词使用恰当（However、Furthermore等转折递进），每段有明确主题句，逻辑递进清晰：背景介绍→三大差异→合作优势→现实挑战→政策诉求。长难句结构合理，如whereas引导的对比句、which引导的非限制性定语从句、making引导的现在分词结果状语等均符合高考D篇水平。少量可优化之处：P1首句36词稍长，信息密度高，但仍在可接受范围内；P3第1句连续三个by+动名词短语略显机械，但不影响理解。整体达到高考阅读文本标准。",
+            "issues": []
+          },
+          "unique_correct_answer": {
+            "pass": true,
+            "comment": "四道题的正确答案均有原文明确对应，无模棱两可之处。Q1主旨题B选项准确概括全文'新模式+优势与挑战并存'的双面结构，其他选项均含有明确错误标志词（entirely、has solved等绝对化/反转表述）；Q2细节题B选项与P2原文whereas分句完全对应；Q3词义题B选项Differences与discrepancies在语境中唯一匹配，反义词选项逻辑上不成立；Q4推断题C选项是对P4两句话的合理综合推断，unresolved issues对应unimplemented mechanisms，management and benefit distribution对应原文两个明确领域。唯一微小不足：Q3的B选项Differences如果被理解为'不同意见'而非'差异'，可能造成极少数学生犹豫，但结合上下文语境（管理体系和学术文化之间），'差异'是唯一合理解读，不构成实质歧义。",
+            "issues": []
+          },
+          "explanation_persuasiveness": {
+            "pass": true,
+            "comment": "推理链均从原文定位出发，引用具体句段，逻辑链条完整。排除链逐一分析干扰项的错误类型（绝对化、立场反转、偷换主语、段落错位、时态错位），并指出原文对应位置，学生可据此回查验证。Q3的推理链先从However转折判断语义色彩为负面，再从因果关系（discrepancies导致低效）推断词义方向，最后结合P2的上下文印证，三层推理递进合理。Q4的推理链综合P4两句话提炼推断，逻辑严密。整体解析对学生而言可读性强、可验证性好。建议微调：Q4排除链中提到'both与all的双重绝对化'，但D选项原文仅含all barriers，并未出现both，此表述不够精准，但不影响排除逻辑的正确性。",
+            "issues": []
+          },
+          "distractor_reasonableness": {
+            "pass": true,
+            "comment": "干扰项设计整体巧妙，陷阱类型丰富且覆盖面广：绝对化陷阱（Q1-A的entirely、Q4-D的already overcome all）、立场反转陷阱（Q1-D的has solved、Q2-C的rather than颠倒、Q3-A的反义词）、偷换主语陷阱（Q1-C、Q2-D、Q4-B）、段落错位陷阱（Q2-A、Q3-C）、时态错位陷阱（Q4-A）。每种陷阱都有原文信息作为'钩子'，使干扰项'看着像对的'：如Q2-A的student recruitment确实出现在原文，只是段落和主语都错了；Q4-A的computing power and data resources也是原文关键词，但时态从need变为established。干扰项难度梯度合理：Q1简单题的干扰项错误标志较明显（entirely、has solved），Q4难题的干扰项更具迷惑性（smoothly、established policies与原文关键词高度重合）。不足之处：Q3的A选项Agreements和D选项Similarities均为反义干扰，功能略有重叠，可考虑将其中一个替换为更贴近原文语境的同义近义干扰（如Conflicts，与differences近义但侧重冲突，增加区分难度）。",
+            "issues": []
+          },
+          "takeaway_usefulness": {
+            "pass": true,
+            "comment": "新搭配选取5组（foster talents、allocate resources for、break down barriers、take charge of、seek preferential treatment），均来自原文且实用性强，其中allocate resources for和seek preferential treatment为高考高频搭配，break down barriers为议论文常用表达。熟词生义3组选取精准：orientation从空间方向到培养定位、charge从收费/指控到负责掌管、mechanism从物理机械到制度机制，均为高考常考的熟词生义类型，且在文中语境充分。常见易错点4条与4道题一一对应，覆盖绝对化陷阱、立场反转陷阱、反义词干扰陷阱、时态错位陷阱，tip部分给出了具体的识别策略（如看到entirely/completely回原文核对、注意rather than的两端顺序、need/seek/would表示未实现等），具有直接的应试指导价值。整体收获内容对学生备考帮助明显。",
+            "issues": []
+          }
+        },
+        "rewrite_needed": false,
+        "rewrite_targets": [],
+        "review_timestamp": "2026-05-12T02:00:00Z"
+      }
+    },
+    {
+      "issue_id": "W2026W19",
+      "article_seq": 2,
+      "source": {
+        "url": "https://www.chinadaily.com.cn/a/202605/11/WS6a011b82a310d6866eb47ce7.html",
+        "publication": "China Daily",
+        "topic_category": "environment",
+        "original_title": "Nature-based solutions to climate challenges",
+        "original_word_count": 1150,
+        "found_date": "2026-05-12",
+        "finder_notes": "Opinion article about nature-based solutions for climate resilience. Analytical and policy-oriented with rich vocabulary, contains long complex sentences and abstract concepts, ideal for inference and main idea questions.",
+        "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMjAwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8IS0tIFNreSBncmFkaWVudCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2t5R3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRDVGNUUzIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjRDVGNUUzIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI0E5REZCRiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwhLS0gQm90dG9tIGZhZGUgZ3JhZGllbnQgLS0+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJvdHRvbUZhZGUiIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzI3QUU2MCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzI3QUU2MCIgc3RvcC1vcGFjaXR5PSIwLjI1Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPCEtLSBSaXZlciBncmFkaWVudCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icml2ZXJHcmFkIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM4NUMxRTkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM1REFERTIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjODVDMUU5Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPCEtLSBNb3VudGFpbiBmaWxsIC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJtdG5HcmFkIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxRTg0NDkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjdBRTYwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPCEtLSBTdW4gZ2xvdyAtLT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0ic3VuR2xvdyIgY3g9IjAuNSIgY3k9IjAuNSIgcj0iMC41Ij4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0Y5RTc5RiIgc3RvcC1vcGFjaXR5PSIwLjYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRjlFNzlGIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8IS0tIFdhdGVyIHdhdmUgcGF0dGVybiAtLT4KICAgIDxwYXR0ZXJuIGlkPSJ3YXZlUGF0dGVybiIgeD0iMCIgeT0iMCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjgiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8cGF0aCBkPSJNMCA0IFExMCAwIDIwIDQgUTMwIDggNDAgNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQUVENkYxIiBzdHJva2Utd2lkdGg9IjAuOCIgb3BhY2l0eT0iMC42Ii8+CiAgICA8L3BhdHRlcm4+CiAgPC9kZWZzPgoKICA8IS0tIEJhY2tncm91bmQgc2t5IC0tPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI3NreUdyYWQpIi8+CgogIDwhLS0gU3VuIGdsb3cgYmVoaW5kIG1vdW50YWlucyAtLT4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSI2MCIgcj0iNTAiIGZpbGw9InVybCgjc3VuR2xvdykiLz4KCiAgPCEtLSBGYXIgbW91bnRhaW5zIChiYWNrZ3JvdW5kIGxheWVyKSAtLT4KICA8cGF0aCBkPSJNMCAxNDAgTDYwIDk1IEwxMTAgMTE1IEwxODAgNzAgTDI0MCAxMDAgTDI5MCA4MCBMMzQwIDExMCBMNDAwIDY1IEw0NTAgOTAgTDUwMCA3NSBMNTYwIDEwNSBMNjIwIDg1IEw2ODAgMTAwIEw3NDAgODAgTDgwMCAxMTAgTDgwMCAyMDAgTDAgMjAwIFoiIGZpbGw9IiMxRTg0NDkiIG9wYWNpdHk9IjAuMzUiLz4KCiAgPCEtLSBNaWQgbW91bnRhaW5zIC0tPgogIDxwYXRoIGQ9Ik0wIDE1NSBMNTAgMTEwIEwxMDAgMTMwIEwxNjAgOTAgTDIyMCAxMjAgTDI3MCAxMDAgTDMzMCAxMjUgTDM5MCA4NSBMNDQwIDExMCBMNDkwIDk1IEw1NTAgMTIwIEw2MTAgMTAwIEw2NzAgMTE1IEw3MzAgOTUgTDgwMCAxMjUgTDgwMCAyMDAgTDAgMjAwIFoiIGZpbGw9IiMyN0FFNjAiIG9wYWNpdHk9IjAuNSIvPgoKICA8IS0tIFdpbmQgdHVyYmluZSAxIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDY4MCwgNDgpIj4KICAgIDxyZWN0IHg9Ii0yIiB5PSIwIiB3aWR0aD0iNCIgaGVpZ2h0PSI2MCIgZmlsbD0iIzU1NSIgcng9IjEiLz4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIzIiBmaWxsPSIjNjY2Ii8+CiAgICA8ZyBmaWxsPSIjNzc3IiBvcGFjaXR5PSIwLjg1Ij4KICAgICAgPHBhdGggZD0iTTAgMCBMLTMgLTI4IFEwIC0zMCAzIC0yOCBaIiB0cmFuc2Zvcm09InJvdGF0ZSgwLDAsMCkiLz4KICAgICAgPHBhdGggZD0iTTAgMCBMLTMgLTI4IFEwIC0zMCAzIC0yOCBaIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjAsMCwwKSIvPgogICAgICA8cGF0aCBkPSJNMCAwIEwtMyAtMjggUTAgLTMwIDMgLTI4IFoiIHRyYW5zZm9ybT0icm90YXRlKDI0MCwwLDApIi8+CiAgICA8L2c+CiAgPC9nPgoKICA8IS0tIFdpbmQgdHVyYmluZSAyIChzbWFsbGVyLCBmdXJ0aGVyKSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3MzAsIDYwKSI+CiAgICA8cmVjdCB4PSItMS41IiB5PSIwIiB3aWR0aD0iMyIgaGVpZ2h0PSI0MiIgZmlsbD0iIzY2NiIgcng9IjEiLz4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjUiIGZpbGw9IiM3NzciLz4KICAgIDxnIGZpbGw9IiM4ODgiIG9wYWNpdHk9IjAuNzUiPgogICAgICA8cGF0aCBkPSJNMCAwIEwtMi41IC0yMCBRMCAtMjIgMi41IC0yMCBaIiB0cmFuc2Zvcm09InJvdGF0ZSgzMCwwLDApIi8+CiAgICAgIDxwYXRoIGQ9Ik0wIDAgTC0yLjUgLTIwIFEwIC0yMiAyLjUgLTIwIFoiIHRyYW5zZm9ybT0icm90YXRlKDE1MCwwLDApIi8+CiAgICAgIDxwYXRoIGQ9Ik0wIDAgTC0yLjUgLTIwIFEwIC0yMiAyLjUgLTIwIFoiIHRyYW5zZm9ybT0icm90YXRlKDI3MCwwLDApIi8+CiAgICA8L2c+CiAgPC9nPgoKICA8IS0tIFNvbGFyIHBhbmVscyAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1NzAsIDEwOCkiPgogICAgPGcgdHJhbnNmb3JtPSJyb3RhdGUoLTE1KSI+CiAgICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIyOCIgaGVpZ2h0PSIxOCIgcng9IjEiIGZpbGw9IiMyQzNFNTAiIG9wYWNpdHk9IjAuOCIvPgogICAgICA8bGluZSB4MT0iMTQiIHkxPSIwIiB4Mj0iMTQiIHkyPSIxOCIgc3Ryb2tlPSIjM0U1ODcxIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgICA8bGluZSB4MT0iMCIgeTE9IjkiIHgyPSIyOCIgeTI9IjkiIHN0cm9rZT0iIzNFNTg3MSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgICAgPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjEyIiBoZWlnaHQ9IjciIHJ4PSIwLjUiIGZpbGw9IiMzNDk4REIiIG9wYWNpdHk9IjAuMyIvPgogICAgICA8cmVjdCB4PSIxNSIgeT0iMSIgd2lkdGg9IjEyIiBoZWlnaHQ9IjciIHJ4PSIwLjUiIGZpbGw9IiMzNDk4REIiIG9wYWNpdHk9IjAuMyIvPgogICAgICA8cmVjdCB4PSIxIiB5PSIxMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjciIHJ4PSIwLjUiIGZpbGw9IiMzNDk4REIiIG9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHJlY3QgeD0iMTUiIHk9IjEwIiB3aWR0aD0iMTIiIGhlaWdodD0iNyIgcng9IjAuNSIgZmlsbD0iIzM0OThEQiIgb3BhY2l0eT0iMC4yNSIvPgogICAgICA8IS0tIFN1cHBvcnQgbGVnIC0tPgogICAgICA8bGluZSB4MT0iMTQiIHkxPSIxOCIgeDI9IjE0IiB5Mj0iMjgiIHN0cm9rZT0iIzU1NSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICAgIDwvZz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMyLCAyKSByb3RhdGUoLTE1KSI+CiAgICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIyOCIgaGVpZ2h0PSIxOCIgcng9IjEiIGZpbGw9IiMyQzNFNTAiIG9wYWNpdHk9IjAuOCIvPgogICAgICA8bGluZSB4MT0iMTQiIHkxPSIwIiB4Mj0iMTQiIHkyPSIxOCIgc3Ryb2tlPSIjM0U1ODcxIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgICA8bGluZSB4MT0iMCIgeTE9IjkiIHgyPSIyOCIgeTI9IjkiIHN0cm9rZT0iIzNFNTg3MSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICAgICAgPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjEyIiBoZWlnaHQ9IjciIHJ4PSIwLjUiIGZpbGw9IiMzNDk4REIiIG9wYWNpdHk9IjAuMyIvPgogICAgICA8cmVjdCB4PSIxNSIgeT0iMSIgd2lkdGg9IjEyIiBoZWlnaHQ9IjciIHJ4PSIwLjUiIGZpbGw9IiMzNDk4REIiIG9wYWNpdHk9IjAuMyIvPgogICAgICA8cmVjdCB4PSIxIiB5PSIxMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjciIHJ4PSIwLjUiIGZpbGw9IiMzNDk4REIiIG9wYWNpdHk9IjAuMjUiLz4KICAgICAgPHJlY3QgeD0iMTUiIHk9IjEwIiB3aWR0aD0iMTIiIGhlaWdodD0iNyIgcng9IjAuNSIgZmlsbD0iIzM0OThEQiIgb3BhY2l0eT0iMC4yNSIvPgogICAgICA8bGluZSB4MT0iMTQiIHkxPSIxOCIgeDI9IjE0IiB5Mj0iMjYiIHN0cm9rZT0iIzU1NSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICAgIDwvZz4KICA8L2c+CgogIDwhLS0gRm9yZWdyb3VuZCBoaWxscyAtLT4KICA8cGF0aCBkPSJNMCAxNzAgUTEwMCAxNDAgMjAwIDE1NSBRMzAwIDE2NSA0MDAgMTUwIFE1MDAgMTQwIDYwMCAxNTUgUTcwMCAxNjUgODAwIDE0NSBMODAwIDIwMCBMMCAyMDAgWiIgZmlsbD0iIzI3QUU2MCIgb3BhY2l0eT0iMC43Ii8+CgogIDwhLS0gUml2ZXIgLS0+CiAgPHBhdGggZD0iTTAgMTc1IFE4MCAxNjggMTYwIDE3MyBRMjYwIDE4MCAzNjAgMTcwIFE0NjAgMTYyIDU2MCAxNzIgUTY2MCAxODAgODAwIDE2OCBMODAwIDE4NSBRNzAwIDE5MiA2MDAgMTg3IFE1MDAgMTgwIDQwMCAxODggUTMwMCAxOTUgMjAwIDE4NyBRMTAwIDE4MCAwIDE5MCBaIiBmaWxsPSJ1cmwoI3JpdmVyR3JhZCkiIG9wYWNpdHk9IjAuNyIvPgogIDxwYXRoIGQ9Ik0wIDE3NSBRODAgMTY4IDE2MCAxNzMgUTI2MCAxODAgMzYwIDE3MCBRNDYwIDE2MiA1NjAgMTcyIFE2NjAgMTgwIDgwMCAxNjggTDgwMCAxODUgUTcwMCAxOTIgNjAwIDE4NyBRNTAwIDE4MCA0MDAgMTg4IFEzMDAgMTk1IDIwMCAxODcgUTEwMCAxODAgMCAxOTAgWiIgZmlsbD0idXJsKCN3YXZlUGF0dGVybikiLz4KCiAgPCEtLSBGb3JlZ3JvdW5kIGdyb3VuZCAtLT4KICA8cGF0aCBkPSJNMCAxODggUTEwMCAxODIgMjAwIDE4NiBRMzUwIDE5MiA1MDAgMTg1IFE2NTAgMTgwIDgwMCAxODMgTDgwMCAyMDAgTDAgMjAwIFoiIGZpbGw9IiMyN0FFNjAiIG9wYWNpdHk9IjAuOSIvPgoKICA8IS0tIFRyZWUgc2lsaG91ZXR0ZXMgLSBsZWZ0IGNsdXN0ZXIgLS0+CiAgPCEtLSBQaW5lIHRyZWUgMSAodGFsbCkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTAsIDE0MCkiPgogICAgPHJlY3QgeD0iLTMiIHk9IjIwIiB3aWR0aD0iNiIgaGVpZ2h0PSIyNSIgZmlsbD0iIzFCNkIzQSIvPgogICAgPHBvbHlnb24gcG9pbnRzPSIwLC0zMCAtMTgsMTAgLTEwLDUgLTIyLDIyIDIyLDIyIDEwLDUgMTgsMTAiIGZpbGw9IiMxRTg0NDkiLz4KICA8L2c+CiAgPCEtLSBQaW5lIHRyZWUgMiAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4NSwgMTQ4KSI+CiAgICA8cmVjdCB4PSItMi41IiB5PSIxNSIgd2lkdGg9IjUiIGhlaWdodD0iMjAiIGZpbGw9IiMxQjZCM0EiLz4KICAgIDxwb2x5Z29uIHBvaW50cz0iMCwtMjUgLTE0LDggLTgsMyAtMTgsMTggMTgsMTggOCwzIDE0LDgiIGZpbGw9IiMxRTg0NDkiLz4KICA8L2c+CiAgPCEtLSBEZWNpZHVvdXMgdHJlZSAxIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEzMCwgMTQ1KSI+CiAgICA8cmVjdCB4PSItMyIgeT0iMTIiIHdpZHRoPSI2IiBoZWlnaHQ9IjIyIiBmaWxsPSIjMUI2QjNBIi8+CiAgICA8Y2lyY2xlIGN4PSIwIiBjeT0iMiIgcj0iMTYiIGZpbGw9IiMyMjk5NTQiLz4KICAgIDxjaXJjbGUgY3g9Ii04IiBjeT0iNiIgcj0iMTEiIGZpbGw9IiMxRTg0NDkiLz4KICAgIDxjaXJjbGUgY3g9IjkiIGN5PSI0IiByPSIxMiIgZmlsbD0iIzI3QUU2MCIvPgogIDwvZz4KICA8IS0tIFBpbmUgdHJlZSAzIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE3NSwgMTUwKSI+CiAgICA8cmVjdCB4PSItMiIgeT0iMTIiIHdpZHRoPSI0IiBoZWlnaHQ9IjE2IiBmaWxsPSIjMUI2QjNBIi8+CiAgICA8cG9seWdvbiBwb2ludHM9IjAsLTIwIC0xMiw1IC02LDIgLTE1LDE1IDE1LDE1IDYsMiAxMiw1IiBmaWxsPSIjMjI5OTU0Ii8+CiAgPC9nPgoKICA8IS0tIFRyZWUgc2lsaG91ZXR0ZXMgLSByaWdodCBjbHVzdGVyIC0tPgogIDwhLS0gRGVjaWR1b3VzIHRyZWUgMiAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0NDAsIDE0MikiPgogICAgPHJlY3QgeD0iLTMuNSIgeT0iMTUiIHdpZHRoPSI3IiBoZWlnaHQ9IjI1IiBmaWxsPSIjMUI2QjNBIi8+CiAgICA8Y2lyY2xlIGN4PSIwIiBjeT0iMiIgcj0iMTgiIGZpbGw9IiMyMjk5NTQiLz4KICAgIDxjaXJjbGUgY3g9Ii0xMCIgY3k9IjgiIHI9IjEyIiBmaWxsPSIjMUU4NDQ5Ii8+CiAgICA8Y2lyY2xlIGN4PSIxMCIgY3k9IjUiIHI9IjEzIiBmaWxsPSIjMjdBRTYwIi8+CiAgPC9nPgogIDwhLS0gUGluZSB0cmVlIDQgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDgwLCAxNDgpIj4KICAgIDxyZWN0IHg9Ii0yLjUiIHk9IjE0IiB3aWR0aD0iNSIgaGVpZ2h0PSIxOCIgZmlsbD0iIzFCNkIzQSIvPgogICAgPHBvbHlnb24gcG9pbnRzPSIwLC0yMiAtMTMsNiAtNywyIC0xNiwxNiAxNiwxNiA3LDIgMTMsNiIgZmlsbD0iIzFFODQ0OSIvPgogIDwvZz4KICA8IS0tIFNtYWxsIGJ1c2gvdHJlZSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MTAsIDE1OCkiPgogICAgPHJlY3QgeD0iLTIiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIiBmaWxsPSIjMUI2QjNBIi8+CiAgICA8ZWxsaXBzZSBjeD0iMCIgY3k9IjMiIHJ4PSIxMCIgcnk9IjkiIGZpbGw9IiMyMjk5NTQiLz4KICA8L2c+CgogIDwhLS0gU21hbGwgdHJlZXMgbWlkIGdyb3VuZCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMTAsIDE1NSkiPgogICAgPHJlY3QgeD0iLTIiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjE0IiBmaWxsPSIjMUI2QjNBIi8+CiAgICA8cG9seWdvbiBwb2ludHM9IjAsLTE2IC0xMCw0IC01LDEgLTEzLDEyIDEzLDEyIDUsMSAxMCw0IiBmaWxsPSIjMjI5OTU0Ii8+CiAgPC9nPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM0MCwgMTU4KSI+CiAgICA8cmVjdCB4PSItMS41IiB5PSI2IiB3aWR0aD0iMyIgaGVpZ2h0PSIxMCIgZmlsbD0iIzFCNkIzQSIvPgogICAgPHBvbHlnb24gcG9pbnRzPSIwLC0xMiAtOCwzIC00LDAgLTEwLDkgMTAsOSA0LDAgOCwzIiBmaWxsPSIjMjI5OTU0Ii8+CiAgPC9nPgoKICA8IS0tIEJvdHRvbSBmYWRlIG92ZXJsYXkgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMTUwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjUwIiBmaWxsPSJ1cmwoI2JvdHRvbUZhZGUpIi8+CgogIDwhLS0gRGVjb3JhdGl2ZSBzZW1pLXRyYW5zcGFyZW50IHRleHQgb24gbGVmdCAtLT4KICA8dGV4dCB4PSIyMCIgeT0iMTkyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjIyIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zdHlsZT0iaXRhbGljIiBmaWxsPSIjMjdBRTYwIiBvcGFjaXR5PSIwLjE4IiBsZXR0ZXItc3BhY2luZz0iMiI+TmF0dXJlIHggSW5mcmFzdHJ1Y3R1cmU8L3RleHQ+CgogIDwhLS0gU3VidGxlIHRvcCBib3JkZXIgbGluZSAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9IiMyN0FFNjAiIG9wYWNpdHk9IjAuNiIvPgo8L3N2Zz4="
+      },
+      "pipeline_status": {
+        "article_finder": "completed",
+        "article_rewriter": "completed",
+        "question_generator": "completed",
+        "explanation_generator": "completed",
+        "takeaway_generator": "completed",
+        "content_reviewer": "completed",
+        "current_step": "content_reviewer",
+        "retry_count": 0,
+        "max_retries": 2,
+        "last_modified": "2026-05-12T01:10:00Z"
+      },
+      "rewritten_article": {
+        "title_en": "Nature as Infrastructure: The Rise of Nature-Based Solutions",
+        "title_zh": "自然即基础设施：基于自然的解决方案的兴起",
+        "body": "Climate change is no longer a distant warning, as melting glaciers, dying coral reefs and collapsing ecosystems are racing toward dangerous tipping points that pose significant risks to both people and nature. In response, many countries including China are treating nature as part of their infrastructure, recognizing that investing in ecosystems could strengthen resilience against environmental threats.\n\nNature-based solutions (NbS) turn this idea into practice by protecting, restoring and managing ecosystems so that they continue to provide essential services for people and businesses. Forests regulate water and stabilize slopes, wetlands store floodwater and filter pollution, and mangroves shield coasts from storms and erosion. Urban trees and parks cool streets and reduce heat stress. In these ways, nature delivers ecosystem services — flood protection, water security, coastal defense and urban cooling — that make existing grey infrastructure more resilient. Unlike roads, dams or drainage systems, natural systems can renew themselves and deliver multiple benefits simultaneously.\n\nYet investment in nature still falls far short of what is needed, with global estimates indicating an annual biodiversity finance gap of approximately 700 billion dollars between now and 2030. One major barrier is that many of nature's benefits, such as a stable climate or cleaner air, are not properly valued and priced in project appraisals or national accounts. A holistic approach is therefore needed to align policy, project preparation and finance, so that NbS are systematically built into decisions rather than added on later.\n\nAcross emerging markets and developing countries, strong examples of NbS are already emerging. In China, for instance, a solar farm built on once-degraded land demonstrates how raised panels allow sheep to graze in their shade while slowing wind erosion, restoring ground cover biodiversity, storing carbon and providing local herders with steadier incomes alongside clean power. As the world looks toward the 31st United Nations Climate Change Conference, the focus is shifting from high-level commitments to concrete implementation, making this the right moment to bring NbS into the mainstream of climate and development plans.",
+        "word_count": 311,
+        "long_sentences_count": 4,
+        "paragraphs": [
+          {
+            "index": 0,
+            "text": "Climate change is no longer a distant warning, as melting glaciers, dying coral reefs and collapsing ecosystems are racing toward dangerous tipping points that pose significant risks to both people and nature. In response, many countries including China are treating nature as part of their infrastructure, recognizing that investing in ecosystems could strengthen resilience against environmental threats.",
+            "word_count": 56
+          },
+          {
+            "index": 1,
+            "text": "Nature-based solutions (NbS) turn this idea into practice by protecting, restoring and managing ecosystems so that they continue to provide essential services for people and businesses. Forests regulate water and stabilize slopes, wetlands store floodwater and filter pollution, and mangroves shield coasts from storms and erosion. Urban trees and parks cool streets and reduce heat stress. In these ways, nature delivers ecosystem services — flood protection, water security, coastal defense and urban cooling — that make existing grey infrastructure more resilient. Unlike roads, dams or drainage systems, natural systems can renew themselves and deliver multiple benefits simultaneously.",
+            "word_count": 96
+          },
+          {
+            "index": 2,
+            "text": "Yet investment in nature still falls far short of what is needed, with global estimates indicating an annual biodiversity finance gap of approximately 700 billion dollars between now and 2030. One major barrier is that many of nature's benefits, such as a stable climate or cleaner air, are not properly valued and priced in project appraisals or national accounts. A holistic approach is therefore needed to align policy, project preparation and finance, so that NbS are systematically built into decisions rather than added on later.",
+            "word_count": 85
+          },
+          {
+            "index": 3,
+            "text": "Across emerging markets and developing countries, strong examples of NbS are already emerging. In China, for instance, a solar farm built on once-degraded land demonstrates how raised panels allow sheep to graze in their shade while slowing wind erosion, restoring ground cover biodiversity, storing carbon and providing local herders with steadier incomes alongside clean power. As the world looks toward the 31st United Nations Climate Change Conference, the focus is shifting from high-level commitments to concrete implementation, making this the right moment to bring NbS into the mainstream of climate and development plans.",
+            "word_count": 90
+          }
+        ],
+        "rewrite_version": 1,
+        "rewriter_notes": "文章从4段结构改写，保留原文核心信息与数据(700 billion dollars, 2030, 31st UN Climate Conference)。长难句4个：第1段首句(28词)、第2段末句(20词，调整后超25词)、第3段首句(26词)、第4段中间复合句(34词)。超纲词控制在5个以内(tipping points上下文可推、mangroves前文有coasts提示、holistic由whole可联想、appraisals与valued/priced同语境、biodiversity有biology词根线索)。去口语化：无缩写、无感叹句。段落衔接：第1段引出问题与理念→第2段阐释NbS机制→第3段转折指出资金缺口与障碍→第4段举例并展望。区分事实与观点：数据为事实标注global estimates indicate，观点用the focus is shifting等表述。"
+      },
+      "questions": [
+        {
+          "q_id": "Q1",
+          "q_type": "main_idea",
+          "stem": "What is the main idea of the passage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nature-based solutions offer a practical approach to addressing climate challenges by using ecosystems as infrastructure.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Nature-based solutions have completely replaced traditional grey infrastructure in climate defense.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The global biodiversity finance gap is the primary reason why grey infrastructure still dominates climate investment.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "China's solar farm project shows that renewable energy alone can solve environmental problems in developing countries.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "A",
+          "distractor_traps": [
+            {
+              "option": "B",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option B"
+            },
+            {
+              "option": "C",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "paragraph_swap",
+              "explanation": "paragraph_swap trap for option D"
+            }
+          ],
+          "source_paragraph_index": null,
+          "difficulty": "easy"
+        },
+        {
+          "q_id": "Q2",
+          "q_type": "detail",
+          "stem": "According to Paragraph 3, what is a major barrier to investing in nature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Grey infrastructure delivers more benefits simultaneously than natural systems do.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Many of nature's benefits are not properly valued and priced in project appraisals or national accounts.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Countries lack the technology needed to protect, restore and manage ecosystems.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Forests and wetlands are too costly to maintain compared with roads and dams.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "B",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option A"
+            },
+            {
+              "option": "C",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "paragraph_swap",
+              "explanation": "paragraph_swap trap for option D"
+            }
+          ],
+          "source_paragraph_index": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q_id": "Q3",
+          "q_type": "word_meaning",
+          "stem": "What does the word \"holistic\" in Paragraph 3 most likely mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Strict and inflexible.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Focused on a single specific goal.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Comprehensive and integrated.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Related to financial investment only.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "C",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option A"
+            },
+            {
+              "option": "B",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option B"
+            },
+            {
+              "option": "D",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option D"
+            }
+          ],
+          "source_paragraph_index": 2,
+          "difficulty": "medium",
+          "target_word": "holistic",
+          "target_word_context": "A holistic approach is therefore needed to align policy, project preparation and finance"
+        },
+        {
+          "q_id": "Q4",
+          "q_type": "inference",
+          "stem": "What can be inferred about the solar farm project in China from Paragraph 4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It proves that solar energy is always more efficient than traditional power sources for local herders.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "It was mainly designed to reduce wind erosion and had little to do with clean power generation.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "It shows that degraded land cannot be restored without first removing the solar panels.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "It achieves both environmental restoration and economic gains through a single land-use model.",
+              "is_correct": true
+            }
+          ],
+          "correct_answer": "D",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option A"
+            },
+            {
+              "option": "B",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option B"
+            },
+            {
+              "option": "C",
+              "trap_type": "paragraph_swap",
+              "explanation": "paragraph_swap trap for option C"
+            }
+          ],
+          "source_paragraph_index": 3,
+          "difficulty": "hard"
+        }
+      ],
+      "explanations": [
+        {
+          "q_id": "Q1",
+          "reasoning_chain": "文章第1段第2句指出许多国家正在将自然视为基础设施的一部分，认识到投资生态系统能增强抵御环境威胁的韧性；第2段第1句明确给出NbS的定义——通过保护、恢复和管理生态系统来提供关键服务；第2段最后一句强调自然系统能自我更新并提供多重效益；第4段以中国案例和联合国气候大会展望收尾。全文核心线索一致：NbS是一种将自然作为基础设施来应对气候挑战的实用方法，因此A选项准确概括了全文主旨。",
+          "elimination_chain": "B选项属于绝对化陷阱，原文第2段末句只是说自然系统'不同于'灰色基础设施且'能自我更新、同时提供多重效益'，并未说NbS已经'完全取代'灰色基础设施，实际上第2段第4句明确说自然使'现有灰色基础设施更具韧性'，说明两者是互补而非取代关系。C选项属于偷换主体陷阱，第3段确实提到7000亿美元的资金缺口，但原文指出障碍是自然效益未被正确评估定价，C选项将'灰色基础设施主导投资'作为原因，这是原文未提及的因果关系，且将第3段局部信息偷换为全文主旨。D选项属于以偏概全/段落替换陷阱，中国光伏农场只是第4段的一个举例，用来展示NbS的具体实践，D选项把一个局部案例夸大为全文主旨，且'renewable energy alone can solve'又犯了绝对化错误，原文说的是该项目同时实现了环境恢复和经济收益，而非仅靠可再生能源单独解决问题。",
+          "test_point_one_liner": "主旨大意题：NbS将自然作为基础设施应对气候挑战",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q2",
+          "reasoning_chain": "题目要求根据第3段找出投资自然的主要障碍。第3段第2句明确指出：'One major barrier is that many of nature's benefits, such as a stable climate or cleaner air, are not properly valued and priced in project appraisals or national accounts.'（一个主要障碍是，自然的许多效益，如稳定的气候或更清洁的空气，在项目评估或国家核算中未被正确估值和定价。）B选项几乎原文复现，准确表述了这一障碍。",
+          "elimination_chain": "A选项属于立场反转陷阱，原文第2段末句说的是自然系统'能自我更新并同时提供多重效益'，而灰色基础设施（roads, dams, drainage systems）被作为对比对象，说明灰色基础设施不具备这些优势，A选项反过来说灰色基础设施比自然系统提供更多效益，与原文立场完全相反。C选项属于偷换主体陷阱，第3段提到的障碍是自然效益未被正确估值定价，属于经济估值层面的问题，而C选项偷换为'缺乏技术'，原文第3段从未提及技术缺失是投资障碍，这是无中生有。D选项属于段落替换陷阱，'森林和湿地维护成本高于道路和大坝'这一比较在原文中根本不存在，原文第2段提到森林、湿地是为了说明它们提供的生态系统服务，第3段讨论的是投资缺口和估值问题，D选项将第2段的自然系统与灰色基础设施的对比关系曲解为成本比较，且方向完全错误——原文恰恰暗示自然系统更具成本效益。",
+          "test_point_one_liner": "细节理解题：自然效益未被正确估值定价",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q3",
+          "reasoning_chain": "题目要求推断第3段中'holistic'的词义。第3段第3句的完整语境是：'A holistic approach is therefore needed to align policy, project preparation and finance, so that NbS are systematically built into decisions rather than added on later.'该句用'therefore'承接前文障碍分析，提出需要对政策（policy）、项目准备（project preparation）和融资（finance）三个方面进行协调对齐（align），使NbS被系统性地纳入决策而非事后添加。'holistic'修饰的approach需要同时涵盖政策、项目和资金三个维度，这正是'全面综合的、统筹整合的'之意，因此C选项'Comprehensive and integrated'最为贴切。",
+          "elimination_chain": "A选项属于立场反转陷阱，原文语境强调需要一种能统筹多个领域的方法，'holistic'应体现包容性和整体性，而'strict and inflexible'（严格且僵化）与原文所需的整体协调含义完全相反，属于反向干扰。B选项属于绝对化/缩小范围陷阱，原文明确提到需要'align policy, project preparation and finance'三个维度，说明holistic方法需要覆盖多个方面，而B选项的'focused on a single specific goal'（专注于单一特定目标）恰好是holistic的反义词，与原文语境中多维度协调的需求背道而驰。D选项属于偷换主体陷阱，虽然原文确实提到finance，但holistic approach同时涵盖policy和project preparation，D选项将范围缩小到'仅与金融投资相关'（financial investment only），忽略了政策与项目准备两个维度，犯了以偏概全的错误，且原文说的是align policy, project preparation and finance三者，而非仅涉及资金。",
+          "test_point_one_liner": "词义猜测题：根据语境推断holistic为全面综合的",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q4",
+          "reasoning_chain": "题目要求根据第4段推断中国光伏农场项目。第4段第2句详细描述了该项目的多重效益：raised panels allow sheep to graze in their shade（羊群在面板遮荫下放牧）——经济收益；slowing wind erosion, restoring ground cover biodiversity, storing carbon（减缓风蚀、恢复地面植被多样性、固碳）——环境恢复；providing local herders with steadier incomes alongside clean power（为当地牧民提供更稳定的收入和清洁电力）——经济与环境双重收益。该项目的核心特征是通过一种土地利用模式（光伏+放牧）同时实现了环境恢复和经济收益，因此D选项'It achieves both environmental restoration and economic gains through a single land-use model'准确概括了这一推断。",
+          "elimination_chain": "A选项属于绝对化陷阱，原文说该项目提供clean power和steadier incomes，但并未断言太阳能'总是'比传统能源更高效（'always more efficient'），这是将具体案例的有限结论无限推广为绝对判断，原文对该项目的描述是特定条件下的成果，而非普遍性比较结论。B选项属于立场反转陷阱，原文明确提到该光伏农场提供'clean power'，且'alongsiding clean power'表明清洁发电是该项目的核心功能之一，而B选项声称该项目'与清洁发电几乎没有关系'（had little to do with clean power generation），这与原文表述严重矛盾，属于将项目的辅助效益偷换为主要目的、将核心功能边缘化的立场反转。C选项属于无中生有陷阱，原文说的是光伏面板建在退化土地上、面板抬高后羊群可在下方放牧并帮助恢复植被，这恰恰说明光伏面板的存在促进了土地恢复而非阻碍恢复，C选项称'退化土地无法在没有先拆除光伏面板的情况下恢复'，这是原文完全没有提及的条件关系，且与原文逻辑相反——光伏面板是恢复的一部分，而非恢复的障碍。",
+          "test_point_one_liner": "推理判断题：NbS项目同时实现环境与经济双重效益",
+          "explanation_version": 1
+        }
+      ],
+      "takeaways": {
+        "new_collocations": [
+          {
+            "collocation": "pose significant risks",
+            "meaning_zh": "构成重大风险",
+            "example_sentence": "melting glaciers, dying coral reefs and collapsing ecosystems are racing toward dangerous tipping points that pose significant risks to both people and nature",
+            "source_paragraph_index": 0
+          },
+          {
+            "collocation": "strengthen resilience against",
+            "meaning_zh": "增强对……的抵御能力",
+            "example_sentence": "investing in ecosystems could strengthen resilience against environmental threats",
+            "source_paragraph_index": 0
+          },
+          {
+            "collocation": "falls far short of",
+            "meaning_zh": "远远达不到，严重不足",
+            "example_sentence": "investment in nature still falls far short of what is needed",
+            "source_paragraph_index": 0
+          },
+          {
+            "collocation": "bring something into the mainstream",
+            "meaning_zh": "使某事物进入主流",
+            "example_sentence": "making this the right moment to bring NbS into the mainstream of climate and development plans",
+            "source_paragraph_index": 0
+          },
+          {
+            "collocation": "shield coasts from",
+            "meaning_zh": "保护海岸免受……",
+            "example_sentence": "mangroves shield coasts from storms and erosion",
+            "source_paragraph_index": 0
+          }
+        ],
+        "familiar_words_unfamiliar_meanings": [
+          {
+            "word": "shield",
+            "familiar_meaning": "盾牌（名词）",
+            "new_meaning_in_context": "保护，遮挡（动词）",
+            "example_sentence": "mangroves shield coasts from storms and erosion",
+            "source_paragraph_index": 0
+          },
+          {
+            "word": "value",
+            "familiar_meaning": "价值（名词）",
+            "new_meaning_in_context": "对……估价，评估……的价值（动词）",
+            "example_sentence": "many of nature's benefits...are not properly valued and priced in project appraisals or national accounts",
+            "source_paragraph_index": 0
+          },
+          {
+            "word": "finance",
+            "familiar_meaning": "金融，财政（名词）",
+            "new_meaning_in_context": "为……提供资金，融资（动词/名词兼用）",
+            "example_sentence": "A holistic approach is therefore needed to align policy, project preparation and finance",
+            "source_paragraph_index": 0
+          }
+        ],
+        "common_errors": [
+          {
+            "error_description": "B选项称NbS已'completely replaced'灰色基础设施",
+            "related_q_id": "Q1",
+            "tip": "看到选项中出现completely/entirely/all/never等绝对词时，回原文确认是否为互补、共存等有限关系，警惕将'增强''补充'偷换为'取代'。"
+          },
+          {
+            "error_description": "A选项称'灰色基础设施比自然系统提供更多效益'",
+            "related_q_id": "Q2",
+            "tip": "遇到含比较的选项，回原文找到比较的主体和方向，用箭头标注优劣关系，避免将'A优于B'误选为'B优于A'。"
+          },
+          {
+            "error_description": "B选项称holistic意为'focused on a single specific goal'",
+            "related_q_id": "Q3",
+            "tip": "词义猜测题中，若被修饰词后跟有多个并列对象（A, B and C），说明该词强调'全面、综合、涵盖多方面'，排除'单一、聚焦一点'类选项。"
+          },
+          {
+            "error_description": "B选项称光伏农场项目'与清洁发电几乎没有关系'",
+            "related_q_id": "Q4",
+            "tip": "遇到'had little to do with / is not mainly about'类否定式选项，回原文确认该功能是否被明确列为项目核心，警惕将核心功能边缘化、将附带效益夸大为唯一目的的手法。"
+          }
+        ],
+        "takeaway_version": 1
+      },
+      "review": {
+        "reviewer": "content_reviewer",
+        "review_timestamp": "2026-05-12T01:30:00Z",
+        "scores": {
+          "fluency": {
+            "score": 9,
+            "pass": true,
+            "comment": "文章语言自然流畅，语法正确无误。四段结构逻辑清晰：问题引入(P1)→NbS机制阐释(P2)→资金缺口与障碍(P3)→案例与展望(P4)，段间衔接词使用恰当(In response / Yet / Across emerging markets)。长难句语法规范，如P1首句as引导原因状语从句、P2末句Unlike介词短语对比、P3首句with复合结构均无语法错误。词汇选用正式得体，无口语化表达、无缩写、无感叹句。"
+          },
+          "unique_correct_answer": {
+            "score": 9,
+            "pass": true,
+            "comment": "四道题正确答案均唯一且无歧义。Q1主旨题A选项与原文核心脉络完全吻合，B/C/D分别被绝对化、偷换主体、以偏概全等陷阱标记清晰排除。Q2细节题B选项几乎原文复现，A/C/D的错误点明确。Q3词义题C选项Comprehensive and integrated与语境三个并列维度(policy, project preparation, finance)精确对应，其余选项要么反义要么偏窄。Q4推理题D选项environmental restoration + economic gains的双重要求与原文一一对应，A选项的always、B选项的little to do with、C选项的cannot...without均过于极端或与原文矛盾。"
+          },
+          "explanation_persuasiveness": {
+            "score": 9,
+            "pass": true,
+            "comment": "推理链和排除链均有理有据，学生可读性强。Q1推理链按段落顺序梳理全文线索，排除链逐项分析B/C/D的陷阱类型和原文矛盾点，层次分明。Q3词义题的解析尤为出色：先还原完整语境句，再分析'align policy, project preparation and finance'三个并列维度对holistic的语义限定，逻辑严密。Q4推理链将太阳能农场项目的多重效益分层拆解(经济收益→环境恢复→双重收益)，排除链对A选项always的绝对化、B选项的立场反转、C选项的因果倒置分析到位。"
+          },
+          "distractor_reasonableness": {
+            "score": 9,
+            "pass": true,
+            "comment": "干扰项设计巧妙，'看着像对的'。Q1B的completely replaced利用学生阅读时对NbS优势的印象，容易将'优于/互补'混淆为'取代'，陷阱自然。Q2A的立场反转利用P2末句Unlike对比结构，学生若未仔细辨别比较方向就可能选反。Q3B的focused on a single specific goal是holistic的反义，但学生可能将holistic联想到'专注、深入'而误选，设计精巧。Q4B将清洁发电这一核心功能边缘化，利用学生对项目中放牧等辅助功能的关注制造干扰，陷阱隐蔽。各干扰项trap_type标注准确。"
+          },
+          "takeaway_usefulness": {
+            "score": 9,
+            "pass": true,
+            "comment": "收获内容实用性强。5个新搭配均为高考高频学术表达：pose significant risks和falls far short of在议论文中极为常用，strengthen resilience against和bring into the mainstream适用于环保与发展类话题写作，shield coasts from拓展了shield的动宾搭配。3个熟词生义选择精准：shield名词转动词、value名词转动词、finance名词转动名词/动词，均为高考常见考点。4个常见错误覆盖absolutization、stance_reversal、scope_narrowing三种陷阱类型，策略建议具体可操作(如'用箭头标注优劣关系''若被修饰词后跟有多个并列对象则强调全面综合')。"
+          }
+        },
+        "overall_pass": true,
+        "rewrite_targets": [],
+        "review_version": 1
+      }
+    },
+    {
+      "issue_id": "W2026W19",
+      "article_seq": 3,
+      "source": {
+        "url": "https://www.chinadaily.com.cn/a/202605/12/WS6a0285bba310d6866eb4813c.html",
+        "publication": "China Daily",
+        "topic_category": "health",
+        "original_title": "Pharma reps face stricter restraints",
+        "original_word_count": 540,
+        "found_date": "2026-05-12",
+        "finder_notes": "News analysis about new regulation on pharmaceutical representatives in China. Contains policy analysis, specific regulatory details and expert commentary. Good for detail and word meaning questions.",
+        "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMjAwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8IS0tIOW6lemDqOa4kOWPmCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYm90dG9tR3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjOEU0NEFEIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOEU0NEFEIiBzdG9wLW9wYWNpdHk9IjAuMTgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8IS0tIOW3puS+p+ijhemlsOWtl+a4kOWPmCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGV4dEZhZGUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzhFNDRBRCIgc3RvcC1vcGFjaXR5PSIwLjEyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzhFNDRBRCIgc3RvcC1vcGFjaXR5PSIwLjAzIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPCEtLSDog4zmma8gLS0+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNGRkZGRkYiLz4KCiAgPCEtLSDlupXpg6jmt6HoibLmuJDlj5jluKYgLS0+CiAgPHJlY3QgeT0iMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYm90dG9tR3JhZCkiLz4KCiAgPCEtLSDlt6bkvqfljYrpgI/mmI7oo4XppbDmloflrZcgLS0+CiAgPHRleHQgeD0iMTgiIHk9IjE1NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSI0OCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9InVybCgjdGV4dEZhZGUpIiBsZXR0ZXItc3BhY2luZz0iMiI+SGVhbHRoIMOXIFJlZ3VsYXRpb248L3RleHQ+CgogIDwhLS0gPT09PT09PT09PSDop4bop4nlhYPntKDljLrln58gPT09PT09PT09PSAtLT4KCiAgPCEtLSAxLiDoja/nk7bliarlvbEgKOW3puS+pykgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODAsIDUwKSI+CiAgICA8IS0tIOeTtuebliAtLT4KICAgIDxyZWN0IHg9IjEwIiB5PSIwIiB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIHJ4PSIzIiBmaWxsPSIjOEU0NEFEIi8+CiAgICA8IS0tIOeTtumiiCAtLT4KICAgIDxyZWN0IHg9IjE0IiB5PSIxNCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjOEU0NEFEIi8+CiAgICA8IS0tIOeTtui6qyAtLT4KICAgIDxyZWN0IHg9IjYiIHk9IjI2IiB3aWR0aD0iMjgiIGhlaWdodD0iNTAiIHJ4PSI0IiBmaWxsPSIjOEU0NEFEIi8+CiAgICA8IS0tIOeTtui6q+agh+etvuWMuuWfnyAtLT4KICAgIDxyZWN0IHg9IjEwIiB5PSIzNiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjI0IiByeD0iMiIgZmlsbD0iI0U4RDVGNSIvPgogICAgPCEtLSDmoIfnrb7kuIrnmoTljYHlrZcgLS0+CiAgICA8cmVjdCB4PSIxOCIgeT0iNDMiIHdpZHRoPSI0IiBoZWlnaHQ9IjEwIiByeD0iMSIgZmlsbD0iIzhFNDRBRCIvPgogICAgPHJlY3QgeD0iMTUiIHk9IjQ2IiB3aWR0aD0iMTAiIGhlaWdodD0iNCIgcng9IjEiIGZpbGw9IiM4RTQ0QUQiLz4KICA8L2c+CgogIDwhLS0gMi4g6IO25ZuK5Ymq5b2xICjoja/nk7blj7PkvqcpIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEzNSwgODApIj4KICAgIDwhLS0g6IO25ZuK5bem5Y2KIC0tPgogICAgPHBhdGggZD0iTTAsMTAgQTEwLDEwIDAgMCAxIDEwLDAgTDIwLDAgQTEwLDEwIDAgMCAxIDIwLDIwIEwxMCwyMCBBMTAsMTAgMCAwIDEgMCwxMCBaIiBmaWxsPSIjOEU0NEFEIi8+CiAgICA8IS0tIOiDtuWbiuWPs+WNiiAtLT4KICAgIDxwYXRoIGQ9Ik0yMCwwIEwzMCwwIEExMCwxMCAwIDAgMSAzMCwyMCBMMjAsMjAgWiIgZmlsbD0iI0U4RDVGNSIgc3Ryb2tlPSIjOEU0NEFEIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogICAgPCEtLSDliIbpmpTnur8gLS0+CiAgICA8bGluZSB4MT0iMjAiIHkxPSIwIiB4Mj0iMjAiIHkyPSIyMCIgc3Ryb2tlPSIjOEU0NEFEIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8L2c+CgogIDwhLS0g56ys5LqM6aKX6IO25ZuK77yI5YC+5pac77yJIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE2NSwgMTA1KSByb3RhdGUoLTI1KSI+CiAgICA8cGF0aCBkPSJNMCw4IEE4LDggMCAwIDEgOCwwIEwxNiwwIEE4LDggMCAwIDEgMTYsMTYgTDgsMTYgQTgsOCAwIDAgMSAwLDggWiIgZmlsbD0iIzhFNDRBRCIgb3BhY2l0eT0iMC43Ii8+CiAgICA8cGF0aCBkPSJNMTYsMCBMMjQsMCBBOCw4IDAgMCAxIDI0LDE2IEwxNiwxNiBaIiBmaWxsPSIjRThENUY1IiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjciLz4KICAgIDxsaW5lIHgxPSIxNiIgeTE9IjAiIHgyPSIxNiIgeTI9IjE2IiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMC44IiBvcGFjaXR5PSIwLjciLz4KICA8L2c+CgogIDwhLS0gMy4g5Yy75a2m5Y2B5a2X56ym5Y+3ICjkuK3pl7TlgY/lt6YpIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI0MCwgNTUpIj4KICAgIDxjaXJjbGUgY3g9IjMwIiBjeT0iMzAiIHI9IjM0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMyIgb3BhY2l0eT0iMC4yNSIvPgogICAgPGNpcmNsZSBjeD0iMzAiIGN5PSIzMCIgcj0iMjYiIGZpbGw9IiM4RTQ0QUQiIG9wYWNpdHk9IjAuMSIvPgogICAgPCEtLSDljYHlrZcgLS0+CiAgICA8cmVjdCB4PSIyNCIgeT0iMTIiIHdpZHRoPSIxMiIgaGVpZ2h0PSIzNiIgcng9IjMiIGZpbGw9IiM4RTQ0QUQiLz4KICAgIDxyZWN0IHg9IjEyIiB5PSIyNCIgd2lkdGg9IjM2IiBoZWlnaHQ9IjEyIiByeD0iMyIgZmlsbD0iIzhFNDRBRCIvPgogIDwvZz4KCiAgPCEtLSA0LiDmlofku7Yv5rOV6KeE5Zu+5qCHICjkuK3pl7TlgY/lj7MpIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM0MCwgNDUpIj4KICAgIDwhLS0g5paH5Lu25Li75L2TIC0tPgogICAgPHBhdGggZD0iTTAsOCBMMCwxMDAgUTAsMTA1IDUsMTA1IEw1MCwxMDUgUTU1LDEwNSA1NSwxMDAgTDU1LDI1IEwzOCw4IFoiIGZpbGw9IiM4RTQ0QUQiIG9wYWNpdHk9IjAuODUiLz4KICAgIDwhLS0g5oqY6KeSIC0tPgogICAgPHBhdGggZD0iTTM4LDggTDM4LDI1IEw1NSwyNSBaIiBmaWxsPSIjRThENUY1IiBvcGFjaXR5PSIwLjkiLz4KICAgIDwhLS0g5paH5Lu25LiK55qE57q/5p2hIC0tPgogICAgPGxpbmUgeDE9IjEwIiB5MT0iMzgiIHgyPSI0MCIgeTI9IjM4IiBzdHJva2U9IiNFOEQ1RjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICA8bGluZSB4MT0iMTAiIHkxPSI0OCIgeDI9IjQ1IiB5Mj0iNDgiIHN0cm9rZT0iI0U4RDVGNSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICAgIDxsaW5lIHgxPSIxMCIgeTE9IjU4IiB4Mj0iNDIiIHkyPSI1OCIgc3Ryb2tlPSIjRThENUY1IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgPGxpbmUgeDE9IjEwIiB5MT0iNjgiIHgyPSIzNSIgeTI9IjY4IiBzdHJva2U9IiNFOEQ1RjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICA8bGluZSB4MT0iMTAiIHkxPSI3OCIgeDI9IjMwIiB5Mj0iNzgiIHN0cm9rZT0iI0U4RDVGNSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICAgIDwhLS0g5Y2w56ugL+WFrOeroOaViOaenCAtLT4KICAgIDxjaXJjbGUgY3g9IjM4IiBjeT0iOTAiIHI9IjkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0U4RDVGNSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuOCIvPgogICAgPHRleHQgeD0iMzgiIHk9IjkzIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iI0U4RDVGNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgb3BhY2l0eT0iMC44Ij5SPC90ZXh0PgogIDwvZz4KCiAgPCEtLSDnrKzkuozku73mlofku7bvvIjnlaXlvq7lgY/np7vvvIzlj6DmlL7mlYjmnpzvvIkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzU1LCA0MCkiPgogICAgPHBhdGggZD0iTTAsOCBMMCwxMDAgUTAsMTA1IDUsMTA1IEw1MCwxMDUgUTU1LDEwNSA1NSwxMDAgTDU1LDI1IEwzOCw4IFoiIGZpbGw9IiM4RTQ0QUQiIG9wYWNpdHk9IjAuMzUiLz4KICAgIDxwYXRoIGQ9Ik0zOCw4IEwzOCwyNSBMNTUsMjUgWiIgZmlsbD0iI0U4RDVGNSIgb3BhY2l0eT0iMC4zIi8+CiAgPC9nPgoKICA8IS0tIDUuIOWkqeW5syAo5Y+z5L6n77yM6LGh5b6B5YWs5bmz56ue5LqJKSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MDAsIDM1KSI+CiAgICA8IS0tIOS4reW/g+aUr+afsSAtLT4KICAgIDxyZWN0IHg9IjQ4IiB5PSI2MCIgd2lkdGg9IjQiIGhlaWdodD0iNTUiIGZpbGw9IiM4RTQ0QUQiLz4KICAgIDwhLS0g5bqV5bqnIC0tPgogICAgPHBhdGggZD0iTTMwLDExNSBMNzAsMTE1IEw2MiwxMjAgTDM4LDEyMCBaIiBmaWxsPSIjOEU0NEFEIi8+CiAgICA8IS0tIOaoquaigSAtLT4KICAgIDxyZWN0IHg9IjUiIHk9IjU1IiB3aWR0aD0iOTAiIGhlaWdodD0iNCIgcng9IjIiIGZpbGw9IiM4RTQ0QUQiLz4KICAgIDwhLS0g6aG26YOo6KOF6aWwIC0tPgogICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MyIgcj0iNiIgZmlsbD0iIzhFNDRBRCIvPgogICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MyIgcj0iMyIgZmlsbD0iI0U4RDVGNSIvPgogICAgPCEtLSDlt6bkvqfnp6Tnm5jnu7MgLS0+CiAgICA8bGluZSB4MT0iMTUiIHkxPSI1OSIgeDI9IjgiIHkyPSI3OCIgc3Ryb2tlPSIjOEU0NEFEIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogICAgPGxpbmUgeDE9IjE1IiB5MT0iNTkiIHgyPSIyMiIgeTI9Ijc4IiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgICA8IS0tIOW3puS+p+enpOebmCAtLT4KICAgIDxwYXRoIGQ9Ik0yLDc4IFEyLDgyIDE1LDgyIFEyOCw4MiAyOCw3OCBaIiBmaWxsPSIjOEU0NEFEIi8+CiAgICA8IS0tIOWPs+S+p+enpOebmOe7syAtLT4KICAgIDxsaW5lIHgxPSI4NSIgeTE9IjU5IiB4Mj0iNzgiIHkyPSI3OCIgc3Ryb2tlPSIjOEU0NEFEIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogICAgPGxpbmUgeDE9Ijg1IiB5MT0iNTkiIHgyPSI5MiIgeTI9Ijc4IiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgICA8IS0tIOWPs+S+p+enpOebmCAtLT4KICAgIDxwYXRoIGQ9Ik03Miw3OCBRNzIsODIgODUsODIgUTk4LDgyIDk4LDc4IFoiIGZpbGw9IiM4RTQ0QUQiLz4KICAgIDwhLS0g5bem55uY5LiK55qE5bCP5paH5qGjIC0tPgogICAgPHJlY3QgeD0iOSIgeT0iNjgiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjEiIGZpbGw9IiNFOEQ1RjUiIG9wYWNpdHk9IjAuOCIvPgogICAgPGxpbmUgeDE9IjExIiB5MT0iNzEiIHgyPSIxNyIgeTI9IjcxIiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgICA8bGluZSB4MT0iMTEiIHkxPSI3NCIgeDI9IjE2IiB5Mj0iNzQiIHN0cm9rZT0iIzhFNDRBRCIgc3Ryb2tlLXdpZHRoPSIwLjgiLz4KICAgIDwhLS0g5Y+z55uY5LiK55qE5bCP5paH5qGjIC0tPgogICAgPHJlY3QgeD0iODAiIHk9IjY4IiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHJ4PSIxIiBmaWxsPSIjRThENUY1IiBvcGFjaXR5PSIwLjgiLz4KICAgIDxsaW5lIHgxPSI4MiIgeTE9IjcxIiB4Mj0iODgiIHkyPSI3MSIgc3Ryb2tlPSIjOEU0NEFEIiBzdHJva2Utd2lkdGg9IjAuOCIvPgogICAgPGxpbmUgeDE9IjgyIiB5MT0iNzQiIHgyPSI4NyIgeTI9Ijc0IiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgPC9nPgoKICA8IS0tIDYuIOWPs+S+p+ijhemlsO+8mueureWktO+8iOixoeW+gei9rOWPmC/ovazlnovvvIkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjUwLCA3MCkiPgogICAgPCEtLSDku44i6ZSA5ZSuIuWIsCLlrabmnK8i55qE566t5aS0IC0tPgogICAgPHBhdGggZD0iTTAsNDAgTDQwLDQwIiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtZGFzaGFycmF5PSI2LDQiLz4KICAgIDxwYXRoIGQ9Ik0zNSwzMiBMNTAsNDAgTDM1LDQ4IiBmaWxsPSJub25lIiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8IS0tIOi1t+eCue+8mumUgOWUruespuWPt++8iOmSseW4ge+8iSAtLT4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSI0MCIgcj0iMTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhFNDRBRCIgc3Ryb2tlLXdpZHRoPSIyIiBvcGFjaXR5PSIwLjQiLz4KICAgIDx0ZXh0IHg9IjAiIHk9IjQ0IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM4RTQ0QUQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIG9wYWNpdHk9IjAuNCI+JDwvdGV4dD4KICAgIDwhLS0g57uI54K577ya5a2m5pyv56ym5Y+377yI5a2m5aOr5bi977yJIC0tPgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjAsIDI1KSI+CiAgICAgIDxwYXRoIGQ9Ik0wLDE1IEwxNSw1IEwzMCwxNSBMMTUsMjUgWiIgZmlsbD0iIzhFNDRBRCIvPgogICAgICA8cmVjdCB4PSIxNCIgeT0iMTUiIHdpZHRoPSIyIiBoZWlnaHQ9IjE0IiBmaWxsPSIjOEU0NEFEIi8+CiAgICAgIDxwYXRoIGQ9Ik03LDE3IEw3LDI1IiBzdHJva2U9IiM4RTQ0QUQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgICAgIDxjaXJjbGUgY3g9IjciIGN5PSIyNiIgcj0iMiIgZmlsbD0iIzhFNDRBRCIvPgogICAgPC9nPgogIDwvZz4KCiAgPCEtLSDlj7PkuIvop5Loo4XppbDngrnpmLUgLS0+CiAgPGcgZmlsbD0iIzhFNDRBRCIgb3BhY2l0eT0iMC4xMiI+CiAgICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIxNjAiIHI9IjMiLz4KICAgIDxjaXJjbGUgY3g9IjczNSIgY3k9IjE2MCIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iNzUwIiBjeT0iMTYwIiByPSIzIi8+CiAgICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIxNzUiIHI9IjMiLz4KICAgIDxjaXJjbGUgY3g9IjczNSIgY3k9IjE3NSIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iNzUwIiBjeT0iMTc1IiByPSIzIi8+CiAgICA8Y2lyY2xlIGN4PSI3MjAiIGN5PSIxOTAiIHI9IjMiLz4KICAgIDxjaXJjbGUgY3g9IjczNSIgY3k9IjE5MCIgcj0iMyIvPgogICAgPGNpcmNsZSBjeD0iNzUwIiBjeT0iMTkwIiByPSIzIi8+CiAgPC9nPgoKICA8IS0tIOmhtumDqOe7hue6v+ijhemlsCAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjMiIGZpbGw9IiM4RTQ0QUQiIG9wYWNpdHk9IjAuNiIvPgoKICA8IS0tIOW6lemDqOe7hue6v+ijhemlsCAtLT4KICA8cmVjdCB4PSIwIiB5PSIxOTciIHdpZHRoPSI4MDAiIGhlaWdodD0iMyIgZmlsbD0iIzhFNDRBRCIgb3BhY2l0eT0iMC42Ii8+Cjwvc3ZnPg=="
+      },
+      "pipeline_status": {
+        "article_finder": "completed",
+        "article_rewriter": "completed",
+        "question_generator": "completed",
+        "explanation_generator": "completed",
+        "takeaway_generator": "completed",
+        "content_reviewer": "completed",
+        "current_step": "content_reviewer",
+        "retry_count": 0,
+        "max_retries": 2,
+        "last_modified": "2026-05-12T01:35:00Z"
+      },
+      "review": {
+        "review_version": 1,
+        "dimensions": {
+          "fluency": {
+            "score": 9,
+            "comment": "文章语言自然流畅，语法正确，无拼写或时态错误。段落间逻辑衔接清晰：第1段引出新规主旨，第2段详述资质与禁令条款，第3段说明违规惩戒，第4段引用专家评价，结构完整。衔接词使用恰当（Additionally, In the long term）。7个长难句均结构完整、修饰关系清晰。唯一小瑕疵是第2段第1句同时包含学历要求、知识要求和注册规定三个要点，信息密度偏高，但仍在可接受范围内。整体达到高考D篇语言水准。",
+            "pass": true
+          },
+          "unique_correct_answer": {
+            "score": 9,
+            "comment": "四道题正确答案均唯一明确。Q1主旨题，A选项精准概括全文核心，B/C/D均与原文存在明确矛盾（B说不再允许沟通与原文provide physicians with product information矛盾；C将细节偷换为主旨；D颠倒了信息提供主体）。Q2细节题，B选项直接对应第2段原文offering donations and subsidies...based on drug sales volume，A/C/D均有段落错位或逻辑错误。Q3词义题，A选项discourage or prevent与deter语境完全吻合。Q4推断题，A选项综合第4段第2-3句合理推断。四题均无模棱两可。",
+            "pass": true
+          },
+          "explanation_persuasiveness": {
+            "score": 9,
+            "comment": "四道题的推理链和排除链均有理有据。推理链均准确定位到原文关键句并给出引用，排除链对每个干扰项的陷阱类型、错误机制均有清晰分析。特别是Q2排除链对C选项同时指出段落错位和主语偷换双重错误、Q4排除链对D选项同时指出段落错位和绝对化双重错误，分析层次丰富。学生可通过排除链学习识别陷阱的系统性方法。推理链引用原文句子完整、定位精确，说服力强。",
+            "pass": true
+          },
+          "distractor_reasonableness": {
+            "score": 9,
+            "comment": "干扰项设计巧妙，均'看着像对的'。Q1-B用absolutization将'禁止销售行为'偷换为'禁止沟通'，容易误导粗心学生；Q1-C将第2段细节（学历要求）升格为主旨，以偏概全的陷阱设计合理；Q2-A用stance_reversal将资质要求反转为禁止对象，逻辑翻转精巧；Q2-C将第3段对医疗机构的禁令嫁接到第2段医药代表身上，段落错位+主语偷换双重迷惑；Q3-B将语境中的public disclosure张冠李戴为deter的词义，混淆了措施与目的；Q3-D将惩戒威慑反转为奖励鼓励，语义色彩完全对立但有学生可能不辨语境。各干扰项均有合理诱错依据。",
+            "pass": true
+          },
+          "takeaway_usefulness": {
+            "score": 8,
+            "comment": "新搭配部分：crack down on、take effect、engage in均为高考高频搭配，实用性强；deter future misconduct直接关联Q3考点，学以致用；rely on personal connections贴合第4段语境。5个搭配均有原文例句和中文释义，学习价值高。熟词生义部分：conduct（行为vs指挥）和volume（销量vs音量/体积）两个均为高考常考熟词生义，选词精准。易错点部分：4个common_errors与4道题一一对应，绝对化陷阱、段落错位+主语偷换、立场反转、段落错位+绝对化，覆盖了高考阅读主要陷阱类型，tip给出了具体识别策略。整体收获实用，略扣分因为new_collocations中rely on personal connections和deter future misconduct相比其他搭配略显专项化，泛用性稍弱，但仍在可接受范围。",
+            "pass": true
+          }
+        },
+        "overall_pass": true,
+        "rewrite_targets": [],
+        "review_summary": "文章3审核全部通过。文章语言流畅、逻辑清晰；四道题答案唯一无歧义；推理链和排除链详实有据；干扰项陷阱设计巧妙、迷惑性强；收获部分搭配实用、熟词生义选词精准、易错点覆盖全面。无需返工。"
+      },
+      "rewritten_article": {
+        "title_en": "New Regulation Redefines the Role of Pharmaceutical Representatives",
+        "title_zh": "新规重新定义医药代表角色",
+        "body": "China has recently issued a regulation targeting the conduct of pharmaceutical representatives, aiming to crack down on illicit practices by strictly limiting their role to academic information sharing rather than sales-driven activities. According to the regulation released by the National Medical Products Administration and six other government departments, these representatives are responsible for providing physicians with product information and must never offer commercial bribes, which severely disrupt fair competition and the healthy development of the pharmaceutical industry.\n\nThe new regulation, which will take effect on August 1, 2026, requires pharmaceutical representatives to hold at least an associate degree in medicine, pharmacy, or a related field and possess knowledge of clinical pharmacology, while also specifying a clearly defined area of operation when registering. It explicitly prohibits representatives from engaging in sales-related activities, including collecting payments, handling purchase and sales invoices, or offering donations and subsidies to medical institutions based on drug sales volume. Additionally, representatives must not exaggerate therapeutic effects, conceal known adverse reaction information, or illegally collect and disseminate patient data.\n\nPharmaceutical companies are forbidden from employing or authorizing representatives found to have engaged in commercial bribery, and medical institutions are prohibited from communicating with unregistered representatives or accepting benefits from them in any form. Disciplinary measures, including public disclosure of violations, restrictions on participation in drug procurement programs, and limitations on national medical insurance services, will be enforced to strengthen oversight and deter future misconduct.\n\nProfessor Yu Wei from the research center for healthcare policy and management at Shanghai University of Finance and Economics noted that the regulation signals a shift in the responsibilities of pharmaceutical representatives from driving sales to communicating academic medical information only. Yu stated that representatives will no longer be able to rely on personal connections to influence prescriptions and must instead create value through authentic, standardized, and traceable medical information services. In the long term, these changes will benefit the profession and help innovative pharmaceutical companies establish a healthier and more credible academic promotion system.",
+        "word_count": 309,
+        "long_sentences_count": 7,
+        "paragraphs": [
+          {
+            "index": 0,
+            "text": "China has recently issued a regulation targeting the conduct of pharmaceutical representatives, aiming to crack down on illicit practices by strictly limiting their role to academic information sharing rather than sales-driven activities. According to the regulation released by the National Medical Products Administration and six other government departments, these representatives are responsible for providing physicians with product information and must never offer commercial bribes, which severely disrupt fair competition and the healthy development of the pharmaceutical industry.",
+            "word_count": 78
+          },
+          {
+            "index": 1,
+            "text": "The new regulation, which will take effect on August 1, 2026, requires pharmaceutical representatives to hold at least an associate degree in medicine, pharmacy, or a related field and possess knowledge of clinical pharmacology, while also specifying a clearly defined area of operation when registering. It explicitly prohibits representatives from engaging in sales-related activities, including collecting payments, handling purchase and sales invoices, or offering donations and subsidies to medical institutions based on drug sales volume. Additionally, representatives must not exaggerate therapeutic effects, conceal known adverse reaction information, or illegally collect and disseminate patient data.",
+            "word_count": 98
+          },
+          {
+            "index": 2,
+            "text": "Pharmaceutical companies are forbidden from employing or authorizing representatives found to have engaged in commercial bribery, and medical institutions are prohibited from communicating with unregistered representatives or accepting benefits from them in any form. Disciplinary measures, including public disclosure of violations, restrictions on participation in drug procurement programs, and limitations on national medical insurance services, will be enforced to strengthen oversight and deter future misconduct.",
+            "word_count": 69
+          },
+          {
+            "index": 3,
+            "text": "Professor Yu Wei from the research center for healthcare policy and management at Shanghai University of Finance and Economics noted that the regulation signals a shift in the responsibilities of pharmaceutical representatives from driving sales to communicating academic medical information only. Yu stated that representatives will no longer be able to rely on personal connections to influence prescriptions and must instead create value through authentic, standardized, and traceable medical information services. In the long term, these changes will benefit the profession and help innovative pharmaceutical companies establish a healthier and more credible academic promotion system.",
+            "word_count": 87
+          }
+        ],
+        "rewrite_version": 1,
+        "rewriter_notes": "Condensed 540-word source into 309-word D-level passage. Retained all key regulatory facts: effective date, qualification requirements, prohibited activities, disciplinary measures, and expert commentary. Structured into 4 paragraphs with clear topic sentences and logical transitions. Contains 7 sentences exceeding 25 words. No contractions, slang, or fabricated information. Key terms (pharmaceutical, pharmacology, subsidies, invoices, disseminate) kept within the 5-word out-of-syllabus limit with contextual clues present."
+      },
+      "explanations": [
+        {
+          "q_id": "Q1",
+          "reasoning_chain": "文章第1段第1句即点明主旨：China has recently issued a regulation targeting the conduct of pharmaceutical representatives, aiming to crack down on illicit practices by strictly limiting their role to academic information sharing rather than sales-driven activities.该句指出中国发布新规，将医药代表的角色严格限定为学术信息分享而非销售驱动活动。后续各段围绕这一核心展开——第2段详述资质要求和禁止行为，第3段说明违规惩戒，第4段引用专家观点评价角色转变。因此全文主旨即：新规重新定义医药代表为学术信息提供者而非销售代理，选项A准确概括了这一主旨。",
+          "elimination_chain": "选项B属于“绝对化”陷阱，原文第1段第2句明确指出representatives are responsible for providing physicians with product information，即医药代表仍需与医生沟通提供产品信息，并非“不再允许沟通”，B将“禁止销售行为”偷换为“禁止沟通”，曲解原文。选项C属于“偷换主旨”陷阱，第2段第1句确实提到学历要求（hold at least an associate degree），但这只是新规的具体条款之一，并非新规的主要目的；新规的核心目的是规范角色定位而非提高学历门槛，C以局部细节替代整体主旨。选项D属于“立场反转”陷阱，原文第1段第2句说明是pharmaceutical representatives负责向医生提供产品信息，而非医疗机构替代制药公司承担此职能，D颠倒了信息提供的主体，与原文立场完全相反。",
+          "test_point_one_liner": "主旨大意题：新规重新定义医药代表角色",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q2",
+          "reasoning_chain": "题目要求依据第2段判断医药代表被禁止的行为。第2段第2句明确写道：It explicitly prohibits representatives from engaging in sales-related activities, including collecting payments, handling purchase and sales invoices, or offering donations and subsidies to medical institutions based on drug sales volume.其中“offering donations and subsidies to medical institutions based on drug sales volume”直接对应选项B的表述，即禁止基于药品销量向医疗机构提供捐赠和补贴，选项B为正确答案。",
+          "elimination_chain": "选项A属于“立场反转”陷阱，第2段第1句规定representatives需持有at least an associate degree in medicine, pharmacy, or a related field，即要求相关领域学历，而A说“持有与医药无关领域的副学士学位”被禁止，实际上原文禁止的是不具备相关学历的人从事该职业，而非禁止持有不相关学历本身，A将“资质要求”反转为“禁止对象”，曲解了原文逻辑。选项C属于“段落错位”陷阱，C的内容“与未注册代表沟通或接受其利益”出现在第3段第1句：medical institutions are prohibited from communicating with unregistered representatives or accepting benefits from them，这是对医疗机构的禁令而非对医药代表的禁令，且出现在第3段而非第2段，C同时犯了主语替换和段落错位的错误。选项D属于“绝对化”陷阱，第4段第2句确实提到representatives will no longer be able to rely on personal connections to influence prescriptions，但这是第4段专家的评论，不属于第2段的规定内容，且D添加了“in all situations”这一绝对化表述，原文并未强调所有情境，属于过度推断与段落错位的双重错误。",
+          "test_point_one_liner": "细节理解题：第2段禁止行为辨析",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q3",
+          "reasoning_chain": "题目考查第3段“deter”一词的含义。第3段第2句为：Disciplinary measures, including public disclosure of violations, restrictions on participation in drug procurement programs, and limitations on national medical insurance services, will be enforced to strengthen oversight and deter future misconduct.该句逻辑为：惩戒措施被实施，目的是“加强监管”和“deter future misconduct”。由并列关系可知，deter与strengthen oversight构成目的递进，惩戒措施的目的自然是阻止/遏制未来不当行为，因此deter意为“阻止、遏制”，与选项A“To discourage or prevent from doing something”吻合。",
+          "elimination_chain": "选项B属于“偷换主旨”陷阱，B说deter意为“检测并向公众报告违规行为”，这实际上是对前文public disclosure of violations（公开披露违规行为）的同义复述，而非deter本身的含义；deter强调的是对未来的预防性威慑，而非对已有行为的检测和报告，B将语境中的另一措施张冠李戴。选项C属于“绝对化”陷阱，C说deter意为“毫无例外地严惩”，原文deter future misconduct侧重于“威慑、阻止”未来不当行为，是一种预防性目的，而非“严惩”本身；且“without any exception”是绝对化表述，原文惩戒措施有不同层级（公开披露、限制参与等），并非一律严惩，C既混淆了“威慑”与“惩罚”的区别，又添加了绝对化条件。选项D属于“立场反转”陷阱，D说deter意为“通过奖励鼓励更好行为”，而原文语境是Disciplinary measures（惩戒措施），包括限制和公开披露，这些明显是惩罚性手段而非奖励性手段，D将“惩罚威慑”反转为“奖励鼓励”，与原文的惩戒语境完全相反。",
+          "test_point_one_liner": "词义猜测题：语境推断deter含义",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q4",
+          "reasoning_chain": "题目要求从第4段于伟教授的评论中进行推断。第4段第3句指出：In the long term, these changes will benefit the profession and help innovative pharmaceutical companies establish a healthier and more credible academic promotion system.于教授认为从长远来看，这些变化将使该行业受益，帮助创新型制药企业建立更健康、更可信的学术推广体系。结合第2句“representatives must instead create value through authentic, standardized, and traceable medical information services”可知，新规推动代表通过可靠的学术服务创造价值，这将逐步改善行业，选项A“新规将推动代表通过可信的学术服务建立价值，从而逐步改善该行业”正是对这两句的综合推断。",
+          "elimination_chain": "选项B属于“绝对化”陷阱，第4段第2句确实说representatives will no longer be able to rely on personal connections to influence prescriptions，但这意味着他们需要改变工作方式（转向学术信息服务），而非“失去工作”；B将“无法再依赖人际关系”极端推断为“将失去工作”，属于过度推断，原文第3句明确说这些变化will benefit the profession，不会导致大规模失业。选项C属于“立场反转”陷阱，第4段第3句明确指出这些变化will help innovative pharmaceutical companies establish a healthier and more credible academic promotion system，即创新型药企将受益于新规，而非反对新规；C说创新药企“反对新规”，与原文“帮助其建立更健康体系”的积极评价立场完全相反。选项D属于“段落错位”陷阱，“2026年8月1日生效”这一信息出现在第2段第1句（The new regulation, which will take effect on August 1, 2026），属于法规条款的客观陈述，而非于教授在第4段评论中推断的内容；此外，D声称商业贿赂将被“彻底消除”（completely eliminated），这是绝对化表述，于教授只说了从长远来看将benefit the profession，并未断言会完全根除，D同时犯了段落错位和绝对化的错误。",
+          "test_point_one_liner": "推理判断题：专家评论的长远影响推断",
+          "explanation_version": 1
+        }
+      ],
+      "takeaways": {
+        "new_collocations": [
+          {
+            "collocation": "crack down on",
+            "meaning_zh": "严厉打击；取缔",
+            "example_sentence": "China has recently issued a regulation targeting the conduct of pharmaceutical representatives, aiming to crack down on illicit practices.",
+            "source_paragraph_index": 0
+          },
+          {
+            "collocation": "take effect",
+            "meaning_zh": "生效；实施",
+            "example_sentence": "The new regulation, which will take effect on August 1, 2026, requires pharmaceutical representatives to hold at least an associate degree.",
+            "source_paragraph_index": 1
+          },
+          {
+            "collocation": "engage in",
+            "meaning_zh": "从事；参与",
+            "example_sentence": "It explicitly prohibits representatives from engaging in sales-related activities.",
+            "source_paragraph_index": 1
+          },
+          {
+            "collocation": "rely on personal connections",
+            "meaning_zh": "依赖人际关系",
+            "example_sentence": "Representatives will no longer be able to rely on personal connections to influence prescriptions.",
+            "source_paragraph_index": 3
+          },
+          {
+            "collocation": "deter future misconduct",
+            "meaning_zh": "遏制未来不当行为",
+            "example_sentence": "Disciplinary measures will be enforced to strengthen oversight and deter future misconduct.",
+            "source_paragraph_index": 2
+          }
+        ],
+        "familiar_words_unfamiliar_meanings": [
+          {
+            "word": "conduct",
+            "familiar_meaning": "指挥；实施（动词常见义，如conduct an experiment）",
+            "new_meaning_in_context": "行为；操守（名词，指人的行为规范）",
+            "example_sentence": "China has recently issued a regulation targeting the conduct of pharmaceutical representatives.",
+            "source_paragraph_index": 0
+          },
+          {
+            "word": "volume",
+            "familiar_meaning": "音量；体积（常见义）",
+            "new_meaning_in_context": "数量；销量（指销售量）",
+            "example_sentence": "Representatives are prohibited from offering donations and subsidies to medical institutions based on drug sales volume.",
+            "source_paragraph_index": 1
+          }
+        ],
+        "common_errors": [
+          {
+            "error_description": "绝对化陷阱：将原文的限定表述夸大为绝对表述，如把'不再允许依赖人际关系影响处方'极端推断为'将失去工作'，或把'长远将受益'断言为'彻底消除'",
+            "related_q_id": "Q1",
+            "tip": "看到no longer、all、completely等绝对化词汇时，回原文确认该表述的限定范围：原文说'不再依赖人际关系'是工作方式的转变，而非职业本身的终结；原文说'长远将受益'是趋势判断，而非结果的绝对保证。"
+          },
+          {
+            "error_description": "段落错位+主语偷换陷阱：将其他段落或其他主体的信息嫁接到题目指定段落或指定主体上，如把第3段对医疗机构的禁令当作第2段对医药代表的禁令",
+            "related_q_id": "Q2",
+            "tip": "细节题明确指定段落时，答案必须在对应段落中寻找；同时注意禁令的主语是谁——'医疗机构被禁止与未注册代表沟通'和'医药代表被禁止从事销售活动'是两套完全不同的规定，主语不同、段落不同。"
+          },
+          {
+            "error_description": "立场反转陷阱：词义猜测题中将目标词的语境义与反义词混淆，或将'惩戒威慑'反转为'奖励鼓励'，或将'检测报告'张冠李戴为词义本身",
+            "related_q_id": "Q3",
+            "tip": "词义猜测时先抓语境的语义色彩：Disciplinary measures（惩戒措施）配套的动词必然是惩罚性、威慑性的，不可能是鼓励性的；再通过并列结构（strengthen oversight and deter）推断，deter与strengthen oversight构成目的递进，都指向'阻止不当行为'。"
+          },
+          {
+            "error_description": "段落错位+绝对化双重陷阱：将专家评论中的推断内容与法规条款的客观信息混淆，同时对效果添加绝对化表述，如把'长远将受益'说成'商业贿赂将被彻底消除'",
+            "related_q_id": "Q4",
+            "tip": "推理判断题要求'从指定段落推断'，答案必须基于该段信息合理推出，不能引用其他段落的事实；同时警惕completely、entirely等绝对化修饰词，原文只说'长远将受益'，未保证'彻底消除'，属于过度推断。"
+          }
+        ],
+        "takeaway_version": 1
+      },
+      "questions": [
+        {
+          "q_id": "Q1",
+          "q_type": "main_idea",
+          "stem": "What is the main idea of the passage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "China has issued a new regulation that redefines pharmaceutical representatives' role as academic information providers rather than sales agents.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Pharmaceutical representatives are no longer allowed to communicate with physicians under the new regulation.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "The new regulation was created mainly to raise the educational requirements for pharmaceutical representatives.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Medical institutions are now responsible for providing product information to physicians instead of pharmaceutical companies.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "A",
+          "distractor_traps": [
+            {
+              "option": "B",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option B"
+            },
+            {
+              "option": "C",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option D"
+            }
+          ],
+          "source_paragraph_index": null,
+          "difficulty": "easy"
+        },
+        {
+          "q_id": "Q2",
+          "q_type": "detail",
+          "stem": "According to Paragraph 2, which of the following is prohibited for pharmaceutical representatives?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Holding an associate degree in a field unrelated to medicine or pharmacy.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Offering donations and subsidies to medical institutions based on drug sales volume.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Communicating with unregistered representatives or accepting benefits from them.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Relying on personal connections to influence prescriptions in all situations.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "B",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option A"
+            },
+            {
+              "option": "C",
+              "trap_type": "paragraph_swap",
+              "explanation": "paragraph_swap trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option D"
+            }
+          ],
+          "source_paragraph_index": 1,
+          "difficulty": "medium"
+        },
+        {
+          "q_id": "Q3",
+          "q_type": "word_meaning",
+          "stem": "What does the word “deter” in Paragraph 3 most likely mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To discourage or prevent from doing something.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "To detect and report violations to the public.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "To punish severely without any exception.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "To encourage better conduct through rewards.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "A",
+          "distractor_traps": [
+            {
+              "option": "B",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option B"
+            },
+            {
+              "option": "C",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option D"
+            }
+          ],
+          "source_paragraph_index": 2,
+          "difficulty": "medium",
+          "target_word": "deter",
+          "target_word_context": "strengthen oversight and deter future misconduct"
+        },
+        {
+          "q_id": "Q4",
+          "q_type": "inference",
+          "stem": "What can be inferred from Professor Yu Wei's comments in Paragraph 4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The regulation will gradually improve the profession by pushing representatives to build value through credible academic services.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Pharmaceutical representatives will lose their jobs because they can no longer use personal connections.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Innovative pharmaceutical companies oppose the regulation since it removes their competitive advantage in sales.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Commercial bribery will be completely eliminated once the regulation takes effect on August 1, 2026.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "A",
+          "distractor_traps": [
+            {
+              "option": "B",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option B"
+            },
+            {
+              "option": "C",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "paragraph_swap",
+              "explanation": "paragraph_swap trap for option D"
+            }
+          ],
+          "source_paragraph_index": 3,
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "issue_id": "W2026W19",
+      "article_seq": 4,
+      "source": {
+        "url": "https://www.chinadaily.com.cn/a/202605/11/WS6a0123b6a310d6866eb47d3a.html",
+        "publication": "China Daily",
+        "topic_category": "society",
+        "original_title": "Enduring protection for workers in emerging fields",
+        "original_word_count": 980,
+        "found_date": "2026-05-12",
+        "finder_notes": "Policy analysis article about protecting gig economy workers in China. Rich in social policy concepts, employment terminology and institutional analysis. Contains long sentences with multiple clauses, suitable for various question types.",
+        "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMjAwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8IS0tIEJvdHRvbSBncmFkaWVudCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYm90dG9tR3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRjVENUQ1IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRjVENUQ1IiBzdG9wLW9wYWNpdHk9IjAuNiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwhLS0gUmVkIGFjY2VudCBncmFkaWVudCBmb3Igc2hpZWxkIC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaGllbGRHcmFkIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNDMDM5MkIiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzkyMkIyMSIgc3RvcC1vcGFjaXR5PSIwLjkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8IS0tIFNreSBncmFkaWVudCAtLT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2t5R3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRjhGMEYwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNzAlIiBzdG9wLWNvbG9yPSIjRjBFMEUwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI0U4RDBEMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwhLS0gR2xvdyBmb3Igc2hpZWxkIC0tPgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJzaGllbGRHbG93IiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRjVENUQ1IiBzdG9wLW9wYWNpdHk9IjAuNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGNUQ1RDUiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNza3lHcmFkKSIvPgoKICA8IS0tIEJvdHRvbSBncmFkaWVudCBvdmVybGF5IC0tPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2JvdHRvbUdyYWQpIi8+CgogIDwhLS0gU2VtaS10cmFuc3BhcmVudCBkZWNvcmF0aXZlIHRleHQgb24gdGhlIGxlZnQgLS0+CiAgPHRleHQgeD0iMTUiIHk9IjE3OCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNDMDM5MkIiIG9wYWNpdHk9IjAuMTIiIGxldHRlci1zcGFjaW5nPSIxLjUiPlNvY2lldHk8L3RleHQ+CiAgPHRleHQgeD0iMTUiIHk9IjE5NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iI0MwMzkyQiIgb3BhY2l0eT0iMC4xMCIgbGV0dGVyLXNwYWNpbmc9IjMiPlAgUiBPIFQgRSBDIFQgSSBPIE48L3RleHQ+CgogIDwhLS0gQ2l0eSBza3lsaW5lIHNpbGhvdWV0dGUgLSBiYWNrZ3JvdW5kIGxheWVyIChsaWdodGVyIGdyYXkpIC0tPgogIDxnIGZpbGw9IiNCMEE4QTgiIG9wYWNpdHk9IjAuNSI+CiAgICA8cmVjdCB4PSI2MCIgeT0iODAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIxMjAiLz4KICAgIDxyZWN0IHg9IjkwIiB5PSI5NSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjEwNSIvPgogICAgPHJlY3QgeD0iMTE1IiB5PSI3MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjEzMCIvPgogICAgPHJlY3QgeD0iMTUwIiB5PSIxMDAiIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMDAiLz4KICAgIDxyZWN0IHg9IjE3OCIgeT0iNjAiIHdpZHRoPSIyOCIgaGVpZ2h0PSIxNDAiLz4KICAgIDxyZWN0IHg9IjYyMCIgeT0iNzUiIHdpZHRoPSIyNiIgaGVpZ2h0PSIxMjUiLz4KICAgIDxyZWN0IHg9IjY1MiIgeT0iOTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxMTAiLz4KICAgIDxyZWN0IHg9IjY3OCIgeT0iNjUiIHdpZHRoPSIzMiIgaGVpZ2h0PSIxMzUiLz4KICAgIDxyZWN0IHg9IjcxNiIgeT0iODUiIHdpZHRoPSIyNCIgaGVpZ2h0PSIxMTUiLz4KICAgIDxyZWN0IHg9Ijc0NiIgeT0iNTUiIHdpZHRoPSIzMCIgaGVpZ2h0PSIxNDUiLz4KICA8L2c+CgogIDwhLS0gQ2l0eSBza3lsaW5lIHNpbGhvdWV0dGUgLSBmb3JlZ3JvdW5kIGxheWVyIChkYXJrZXIgZ3JheSkgLS0+CiAgPGcgZmlsbD0iIzhDODI4MiIgb3BhY2l0eT0iMC43Ij4KICAgIDxyZWN0IHg9IjU1IiB5PSIxMDAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxMDAiLz4KICAgIDxyZWN0IHg9IjgwIiB5PSIxMTAiIHdpZHRoPSIxNiIgaGVpZ2h0PSI5MCIvPgogICAgPHJlY3QgeD0iMTAyIiB5PSI4NSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjExNSIvPgogICAgPHJlY3QgeD0iMTMwIiB5PSIxMDUiIHdpZHRoPSIxOCIgaGVpZ2h0PSI5NSIvPgogICAgPHJlY3QgeD0iMTU1IiB5PSI3NSIgd2lkdGg9IjI2IiBoZWlnaHQ9IjEyNSIvPgogICAgPHJlY3QgeD0iMTg4IiB5PSI5NSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjEwNSIvPgogICAgPCEtLSBSaWdodCBzaWRlIGJ1aWxkaW5ncyAtLT4KICAgIDxyZWN0IHg9IjYzMCIgeT0iOTUiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMDUiLz4KICAgIDxyZWN0IHg9IjY1NSIgeT0iODAiIHdpZHRoPSIyNCIgaGVpZ2h0PSIxMjAiLz4KICAgIDxyZWN0IHg9IjY4NSIgeT0iMTAwIiB3aWR0aD0iMTYiIGhlaWdodD0iMTAwIi8+CiAgICA8cmVjdCB4PSI3MDgiIHk9IjcyIiB3aWR0aD0iMjgiIGhlaWdodD0iMTI4Ii8+CiAgICA8cmVjdCB4PSI3NDIiIHk9IjkwIiB3aWR0aD0iMjAiIGhlaWdodD0iMTEwIi8+CiAgICA8cmVjdCB4PSI3NjgiIHk9IjEwNSIgd2lkdGg9IjMyIiBoZWlnaHQ9Ijk1Ii8+CiAgPC9nPgoKICA8IS0tIEJ1aWxkaW5nIHdpbmRvd3MgKHRpbnkgZG90cykgLS0+CiAgPGcgZmlsbD0iI0MwMzkyQiIgb3BhY2l0eT0iMC4yNSI+CiAgICA8IS0tIExlZnQgYnVpbGRpbmdzIHdpbmRvd3MgLS0+CiAgICA8cmVjdCB4PSIxMTgiIHk9IjkwIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxMjQiIHk9IjkwIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxMzAiIHk9IjkwIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxMTgiIHk9Ijk4IiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxMjQiIHk9Ijk4IiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxMzAiIHk9Ijk4IiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNjIiIHk9IjgyIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNjgiIHk9IjgyIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNzQiIHk9IjgyIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNjIiIHk9IjkwIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNjgiIHk9IjkwIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNzQiIHk9IjkwIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNjIiIHk9Ijk4IiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8cmVjdCB4PSIxNjgiIHk9Ijk4IiB3aWR0aD0iMyIgaGVpZ2h0PSIzIi8+CiAgICA8IS0tIFJpZ2h0IGJ1aWxkaW5ncyB3aW5kb3dzIC0tPgogICAgPHJlY3QgeD0iNjYyIiB5PSI4OCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNjY4IiB5PSI4OCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNjYyIiB5PSI5NiIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNjY4IiB5PSI5NiIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzE2IiB5PSI4MCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzIyIiB5PSI4MCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzI4IiB5PSI4MCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzE2IiB5PSI4OCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzIyIiB5PSI4OCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzI4IiB5PSI4OCIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzE2IiB5PSI5NiIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzIyIiB5PSI5NiIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogICAgPHJlY3QgeD0iNzI4IiB5PSI5NiIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPgogIDwvZz4KCiAgPCEtLSBTaGllbGQgZ2xvdyBiZWhpbmQgLS0+CiAgPGVsbGlwc2UgY3g9IjQwMCIgY3k9IjEwMCIgcng9IjcwIiByeT0iNjUiIGZpbGw9InVybCgjc2hpZWxkR2xvdykiLz4KCiAgPCEtLSBTaGllbGQgKHN5bWJvbCBvZiBwcm90ZWN0aW9uL2d1YXJhbnRlZSkgLS0+CiAgPHBhdGggZD0iTTQwMCw0NSBMNDM1LDYwIEw0MzUsMTA1IFE0MzUsMTM1IDQwMCwxNTUgUTM2NSwxMzUgMzY1LDEwNSBMMzY1LDYwIFoiCiAgICAgICAgZmlsbD0idXJsKCNzaGllbGRHcmFkKSIgc3Ryb2tlPSIjOTIyQjIxIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDwhLS0gU2hpZWxkIGlubmVyIGhpZ2hsaWdodCAtLT4KICA8cGF0aCBkPSJNNDAwLDUyIEw0MjksNjUgTDQyOSwxMDMgUTQyOSwxMjggNDAwLDE0NyBRMzcxLDEyOCAzNzEsMTAzIEwzNzEsNjUgWiIKICAgICAgICBmaWxsPSJub25lIiBzdHJva2U9IiNGNUQ1RDUiIHN0cm9rZS13aWR0aD0iMC44IiBvcGFjaXR5PSIwLjUiLz4KICA8IS0tIENoZWNrbWFyayBpbnNpZGUgc2hpZWxkIC0tPgogIDxwYXRoIGQ9Ik0zODYsMTAwIEwzOTYsMTEyIEw0MTYsODYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Y1RDVENSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KCiAgPCEtLSBEZWxpdmVyeSByaWRlciBpY29uIChsZWZ0IG9mIHNoaWVsZCkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjcwLCA3NSkiPgogICAgPCEtLSBSaWRlciBib2R5IC0tPgogICAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjgiIGZpbGw9IiNDMDM5MkIiLz4gPCEtLSBoZWFkIC0tPgogICAgPHBhdGggZD0iTS02LDEwIEwwLDggTDYsMTAgTDQsMjggTC00LDI4IFoiIGZpbGw9IiNDMDM5MkIiLz4gPCEtLSBib2R5IC0tPgogICAgPCEtLSBIZWxtZXQgLS0+CiAgICA8cGF0aCBkPSJNLTgsLTIgUS04LC0xMCAwLC0xMCBROCwtMTAgOCwtMiIgZmlsbD0iIzkyMkIyMSIgc3Ryb2tlPSJub25lIi8+CiAgICA8IS0tIERlbGl2ZXJ5IGJveCBvbiBiYWNrIC0tPgogICAgPHJlY3QgeD0iNiIgeT0iOCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEwIiByeD0iMSIgZmlsbD0iIzkyMkIyMSIgb3BhY2l0eT0iMC44Ii8+CiAgICA8cmVjdCB4PSI4IiB5PSIxMCIgd2lkdGg9IjgiIGhlaWdodD0iMyIgcng9IjAuNSIgZmlsbD0iI0Y1RDVENSIgb3BhY2l0eT0iMC42Ii8+CiAgICA8IS0tIFNjb290ZXIgYm9keSAtLT4KICAgIDxyZWN0IHg9Ii0xMiIgeT0iMjYiIHdpZHRoPSIyOCIgaGVpZ2h0PSI2IiByeD0iMiIgZmlsbD0iIzhDODI4MiIvPgogICAgPCEtLSBXaGVlbHMgLS0+CiAgICA8Y2lyY2xlIGN4PSItOCIgY3k9IjM2IiByPSI1IiBmaWxsPSIjNkI1QjVCIiBzdHJva2U9IiM4QzgyODIiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPGNpcmNsZSBjeD0iMTQiIGN5PSIzNiIgcj0iNSIgZmlsbD0iIzZCNUI1QiIgc3Ryb2tlPSIjOEM4MjgyIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDwhLS0gTW90aW9uIGxpbmVzIC0tPgogICAgPGxpbmUgeDE9Ii0yNSIgeTE9IjI4IiB4Mj0iLTE4IiB5Mj0iMjgiIHN0cm9rZT0iI0MwMzkyQiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuNCIvPgogICAgPGxpbmUgeDE9Ii0yOCIgeTE9IjMyIiB4Mj0iLTIwIiB5Mj0iMzIiIHN0cm9rZT0iI0MwMzkyQiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuMyIvPgogICAgPGxpbmUgeDE9Ii0yNiIgeTE9IjM2IiB4Mj0iLTE5IiB5Mj0iMzYiIHN0cm9rZT0iI0MwMzkyQiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuMiIvPgogIDwvZz4KCiAgPCEtLSBQaG9uZSAvIEFQUCBpbnRlcmZhY2UgaWNvbiAocmlnaHQgb2Ygc2hpZWxkKSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MDAsIDY4KSI+CiAgICA8IS0tIFBob25lIGJvZHkgLS0+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMzAiIGhlaWdodD0iNTIiIHJ4PSI0IiBmaWxsPSIjOEM4MjgyIiBzdHJva2U9IiM2QjVCNUIiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPCEtLSBTY3JlZW4gLS0+CiAgICA8cmVjdCB4PSIzIiB5PSI2IiB3aWR0aD0iMjQiIGhlaWdodD0iMzgiIHJ4PSIxIiBmaWxsPSIjRjBFMEUwIi8+CiAgICA8IS0tIEFwcCBoZWFkZXIgYmFyIC0tPgogICAgPHJlY3QgeD0iMyIgeT0iNiIgd2lkdGg9IjI0IiBoZWlnaHQ9IjciIHJ4PSIxIiBmaWxsPSIjQzAzOTJCIiBvcGFjaXR5PSIwLjgiLz4KICAgIDwhLS0gQXBwIGNvbnRlbnQgbGluZXMgLS0+CiAgICA8cmVjdCB4PSI2IiB5PSIxNiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjIiIHJ4PSIxIiBmaWxsPSIjQjBBOEE4Ii8+CiAgICA8cmVjdCB4PSI2IiB5PSIyMSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjIiIHJ4PSIxIiBmaWxsPSIjQzhDMEMwIi8+CiAgICA8cmVjdCB4PSI2IiB5PSIyNiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjIiIHJ4PSIxIiBmaWxsPSIjQjBBOEE4Ii8+CiAgICA8IS0tIFBsYXkvTGl2ZSBidXR0b24gLS0+CiAgICA8Y2lyY2xlIGN4PSIxNSIgY3k9IjM1IiByPSI0IiBmaWxsPSIjQzAzOTJCIiBvcGFjaXR5PSIwLjciLz4KICAgIDxwb2x5Z29uIHBvaW50cz0iMTMsMzMgMTMsMzcgMTcsMzUiIGZpbGw9IiNGNUQ1RDUiLz4KICAgIDwhLS0gSG9tZSBpbmRpY2F0b3IgLS0+CiAgICA8cmVjdCB4PSIxMCIgeT0iNDYiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxLjUiIHJ4PSIwLjc1IiBmaWxsPSIjNkI1QjVCIi8+CiAgPC9nPgoKICA8IS0tIENhciBpY29uIChyaWRlLWhhaWxpbmcgZHJpdmVyKSBiZXR3ZWVuIHJpZGVyIGFuZCBzaGllbGQgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzQ1LCAxMjApIj4KICAgIDwhLS0gQ2FyIGJvZHkgLS0+CiAgICA8cGF0aCBkPSJNLTE4LDggTC0xNCwwIEwxNCwwIEwxOCw4IFoiIGZpbGw9IiM4QzgyODIiLz4KICAgIDxyZWN0IHg9Ii0yMCIgeT0iOCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjEwIiByeD0iMiIgZmlsbD0iIzhDODI4MiIvPgogICAgPCEtLSBXaW5kb3dzIC0tPgogICAgPHJlY3QgeD0iLTEyIiB5PSIyIiB3aWR0aD0iMTAiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiNFMEQ4RDgiIG9wYWNpdHk9IjAuNyIvPgogICAgPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjYiIHJ4PSIxIiBmaWxsPSIjRTBEOEQ4IiBvcGFjaXR5PSIwLjciLz4KICAgIDwhLS0gV2hlZWxzIC0tPgogICAgPGNpcmNsZSBjeD0iLTEyIiBjeT0iMTgiIHI9IjQiIGZpbGw9IiM2QjVCNUIiLz4KICAgIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTgiIHI9IjQiIGZpbGw9IiM2QjVCNUIiLz4KICAgIDwhLS0gVGF4aSBzaWduIG9uIHRvcCAtLT4KICAgIDxyZWN0IHg9Ii00IiB5PSItNCIgd2lkdGg9IjgiIGhlaWdodD0iNCIgcng9IjEiIGZpbGw9IiNDMDM5MkIiIG9wYWNpdHk9IjAuOCIvPgogIDwvZz4KCiAgPCEtLSBDb25uZWN0aW9uIGxpbmVzOiBkYXNoZWQgcGF0aHMgbGlua2luZyBpY29ucyB0byBzaGllbGQgLS0+CiAgPHBhdGggZD0iTTMxMCwxMDAgUTM0MCw5MCAzNjUsOTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0MwMzkyQiIgc3Ryb2tlLXdpZHRoPSIxLjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIgb3BhY2l0eT0iMC4zNSIvPgogIDxwYXRoIGQ9Ik01MDAsOTUgUTQ3MCw4NSA0MzUsOTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0MwMzkyQiIgc3Ryb2tlLXdpZHRoPSIxLjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIgb3BhY2l0eT0iMC4zNSIvPgogIDxwYXRoIGQ9Ik0zNzAsMTIwIFEzODUsMTEwIDM5NSwxMDgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0MwMzkyQiIgc3Ryb2tlLXdpZHRoPSIxLjIiIHN0cm9rZS1kYXNoYXJyYXk9IjMsMyIgb3BhY2l0eT0iMC4zNSIvPgoKICA8IS0tIFNtYWxsIGRlY29yYXRpdmUgZG90cyBzY2F0dGVyZWQgLS0+CiAgPGNpcmNsZSBjeD0iMjMwIiBjeT0iNTAiIHI9IjIiIGZpbGw9IiNDMDM5MkIiIG9wYWNpdHk9IjAuMTUiLz4KICA8Y2lyY2xlIGN4PSIyNTAiIGN5PSIxNDAiIHI9IjEuNSIgZmlsbD0iI0MwMzkyQiIgb3BhY2l0eT0iMC4xMiIvPgogIDxjaXJjbGUgY3g9IjU2MCIgY3k9IjQ1IiByPSIyIiBmaWxsPSIjQzAzOTJCIiBvcGFjaXR5PSIwLjE1Ii8+CiAgPGNpcmNsZSBjeD0iNTgwIiBjeT0iMTQ1IiByPSIxLjUiIGZpbGw9IiNDMDM5MkIiIG9wYWNpdHk9IjAuMTIiLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIxNjAiIHI9IjEuNSIgZmlsbD0iI0MwMzkyQiIgb3BhY2l0eT0iMC4xMCIvPgogIDxjaXJjbGUgY3g9IjM1MCIgY3k9IjE2NSIgcj0iMiIgZmlsbD0iI0MwMzkyQiIgb3BhY2l0eT0iMC4xMCIvPgoKICA8IS0tIFN1YnRsZSByZWQgYWNjZW50IGxpbmUgYXQgYm90dG9tIC0tPgogIDxyZWN0IHg9IjAiIHk9IjE5NiIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI0IiBmaWxsPSIjQzAzOTJCIiBvcGFjaXR5PSIwLjYiLz4KCiAgPCEtLSBUb3AgdGhpbiBhY2NlbnQgbGluZSAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjIiIGZpbGw9IiNDMDM5MkIiIG9wYWNpdHk9IjAuMyIvPgo8L3N2Zz4="
+      },
+      "pipeline_status": {
+        "article_finder": "completed",
+        "article_rewriter": "completed",
+        "question_generator": "completed",
+        "explanation_generator": "completed",
+        "takeaway_generator": "completed",
+        "content_reviewer": "completed",
+        "current_step": "content_reviewer",
+        "retry_count": 0,
+        "max_retries": 2,
+        "last_modified": "2026-05-12T01:00:00Z"
+      },
+      "rewritten_article": {
+        "title_en": "Enduring Protection for Workers in Emerging Fields",
+        "title_zh": "新兴领域劳动者的持久保障",
+        "body": "On April 26, the Chinese government issued the first national-level policy document specifically addressing the needs of workers in new forms of employment, including food delivery riders, couriers, ride-hailing drivers, and live-streamers who earn their living through digital platforms. This landmark document aims to close a long-standing institutional gap by formally bringing this emerging workforce into the national services and governance system.\n\nChina's social security system was developed alongside industrialization and remains largely based on the work unit model, under which traditional workers sign formal labor contracts with fixed employers, contribute to social insurance, and receive corresponding benefits. However, workers in new forms of employment face considerable ambiguity because their flexible arrangements, which often involve platforms, outsourcing firms, and franchisees, create complex employment relationships that leave them without clear legal protection in areas such as pay, work injury insurance, and rest rights.\n\nThe guidelines require platform companies to use labor contracts suited to the sector, define rights and obligations lawfully, set remuneration in line with workload, pay wages in full and on time, and ensure workers' right to rest with enhanced protection during extreme weather. Additionally, platforms must improve transparency and guarantee workers' rights to be informed about, participate in, and make choices regarding algorithmic rules that govern their work.\n\nOn the public services front, basic services should be provided based on place of residence rather than household registration, allowing services to follow the flow of workers. Measures include improving social security systems for flexible employment, facilitating the transfer of social insurance, expanding pilot programs for occupational injury protection, and exploring the inclusion of flexible workers in the housing provident fund.\n\nThese guidelines emerge as China's population structure and the platform economy reshape employment patterns, shifting the social security system from one centered on work units to one centered on society at large. By standardizing employment practices, safeguarding entitlements, and opening pathways for career development, the guidelines lay a foundation for transforming jobs that were once temporary stopgaps into viable, stable careers for tens of millions of workers.",
+        "word_count": 338,
+        "long_sentences_count": 4,
+        "paragraphs": [
+          {
+            "index": 0,
+            "text": "On April 26, the Chinese government issued the first national-level policy document specifically addressing the needs of workers in new forms of employment, including food delivery riders, couriers, ride-hailing drivers, and live-streamers who earn their living through digital platforms. This landmark document aims to close a long-standing institutional gap by formally bringing this emerging workforce into the national services and governance system.",
+            "word_count": 62
+          },
+          {
+            "index": 1,
+            "text": "China's social security system was developed alongside industrialization and remains largely based on the work unit model, under which traditional workers sign formal labor contracts with fixed employers, contribute to social insurance, and receive corresponding benefits. However, workers in new forms of employment face considerable ambiguity because their flexible arrangements, which often involve platforms, outsourcing firms, and franchisees, create complex employment relationships that leave them without clear legal protection in areas such as pay, work injury insurance, and rest rights.",
+            "word_count": 80
+          },
+          {
+            "index": 2,
+            "text": "The guidelines require platform companies to use labor contracts suited to the sector, define rights and obligations lawfully, set remuneration in line with workload, pay wages in full and on time, and ensure workers' right to rest with enhanced protection during extreme weather. Additionally, platforms must improve transparency and guarantee workers' rights to be informed about, participate in, and make choices regarding algorithmic rules that govern their work.",
+            "word_count": 68
+          },
+          {
+            "index": 3,
+            "text": "On the public services front, basic services should be provided based on place of residence rather than household registration, allowing services to follow the flow of workers. Measures include improving social security systems for flexible employment, facilitating the transfer of social insurance, expanding pilot programs for occupational injury protection, and exploring the inclusion of flexible workers in the housing provident fund.",
+            "word_count": 61
+          },
+          {
+            "index": 4,
+            "text": "These guidelines emerge as China's population structure and the platform economy reshape employment patterns, shifting the social security system from one centered on work units to one centered on society at large. By standardizing employment practices, safeguarding entitlements, and opening pathways for career development, the guidelines lay a foundation for transforming jobs that were once temporary stopgaps into viable, stable careers for tens of millions of workers.",
+            "word_count": 67
+          }
+        ],
+        "rewrite_version": 1,
+        "rewriter_notes": "改写说明：原文约980词，改写后338词，符合250-350词硬约束。5段结构：P1引出政策背景与目标；P2对比传统用工模式与新就业形态的保障缺口；P3阐述平台责任与算法透明要求；P4聚焦公共服务改革措施；P5总结制度转型意义与长远影响。包含4个超过25词的长难句（P1首句约37词、P2第二句约43词、P5两句分别约32词和约33词）。段间通过'However'、'The guidelines require'、'On the public services front'、'These guidelines emerge'等衔接。超纲词控制在5个以内（industrialization、franchisees、remuneration、algorithmic、provident），均有上下文线索支持。保留原文不同立场（传统用工vs新就业形态），补充了文化背景（work unit model、household registration）。去口语化处理，无缩写、俚语或感叹句。未捏造原文没有的信息。"
+      },
+      "questions": [
+        {
+          "q_id": "Q1",
+          "q_type": "main_idea",
+          "stem": "What is the main idea of the passage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "China has issued national guidelines to protect workers in new forms of employment and reform the social security system.",
+              "is_correct": true
+            },
+            {
+              "label": "B",
+              "text": "Platform companies have failed to pay wages on time and must be punished by the government.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Traditional workers under the work unit model will lose their social insurance benefits.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "The platform economy has completely replaced the traditional work unit model in China.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "A",
+          "distractor_traps": [
+            {
+              "option": "B",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option B"
+            },
+            {
+              "option": "C",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option D"
+            }
+          ],
+          "source_paragraph_index": null,
+          "difficulty": "easy"
+        },
+        {
+          "q_id": "Q2",
+          "q_type": "detail",
+          "stem": "According to the guidelines, what must platform companies do regarding algorithmic rules?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Replace algorithmic rules with manual management systems.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Guarantee workers' rights to be informed about, participate in, and make choices regarding them.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "Allow workers to decide remuneration through algorithmic rules.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "Ensure all algorithmic rules are approved by the government before being applied.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "B",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option A"
+            },
+            {
+              "option": "C",
+              "trap_type": "paragraph_swap",
+              "explanation": "paragraph_swap trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option D"
+            }
+          ],
+          "source_paragraph_index": 2,
+          "difficulty": "medium"
+        },
+        {
+          "q_id": "Q3",
+          "q_type": "word_meaning",
+          "stem": "What does the word \"stopgaps\" in the last paragraph most likely mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Permanent positions with full benefits.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Illegal jobs without any protection.",
+              "is_correct": false
+            },
+            {
+              "label": "C",
+              "text": "Temporary substitutions used until something better is available.",
+              "is_correct": true
+            },
+            {
+              "label": "D",
+              "text": "Skilled occupations requiring special training.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "C",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option A"
+            },
+            {
+              "option": "B",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option B"
+            },
+            {
+              "option": "D",
+              "trap_type": "subject_swap",
+              "explanation": "subject_swap trap for option D"
+            }
+          ],
+          "source_paragraph_index": 4,
+          "difficulty": "medium",
+          "target_word": "stopgaps",
+          "target_word_context": "transforming jobs that were once temporary stopgaps into viable, stable careers"
+        },
+        {
+          "q_id": "Q4",
+          "q_type": "inference",
+          "stem": "What can be inferred about workers in new forms of employment from Paragraph 2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They prefer the work unit model because it offers better pay.",
+              "is_correct": false
+            },
+            {
+              "label": "B",
+              "text": "Their employment relationships are so complex that no single party takes full legal responsibility for them.",
+              "is_correct": true
+            },
+            {
+              "label": "C",
+              "text": "They refuse to sign any labor contracts with outsourcing firms.",
+              "is_correct": false
+            },
+            {
+              "label": "D",
+              "text": "They receive the same social insurance benefits as traditional workers do.",
+              "is_correct": false
+            }
+          ],
+          "correct_answer": "B",
+          "distractor_traps": [
+            {
+              "option": "A",
+              "trap_type": "stance_reversal",
+              "explanation": "stance_reversal trap for option A"
+            },
+            {
+              "option": "C",
+              "trap_type": "absolutization",
+              "explanation": "absolutization trap for option C"
+            },
+            {
+              "option": "D",
+              "trap_type": "paragraph_swap",
+              "explanation": "paragraph_swap trap for option D"
+            }
+          ],
+          "source_paragraph_index": 1,
+          "difficulty": "hard"
+        }
+      ],
+      "takeaways": {
+        "new_collocations": [
+          {
+            "collocation": "close a gap",
+            "meaning_zh": "弥合缺口；填补空白",
+            "example_sentence": "This landmark document aims to close a long-standing institutional gap by formally bringing this emerging workforce into the national services and governance system.",
+            "source_paragraph_index": 0
+          },
+          {
+            "collocation": "in line with",
+            "meaning_zh": "与……一致；符合",
+            "example_sentence": "The guidelines require platform companies to set remuneration in line with workload.",
+            "source_paragraph_index": 2
+          },
+          {
+            "collocation": "pay wages in full and on time",
+            "meaning_zh": "按时足额支付工资",
+            "example_sentence": "The guidelines require platform companies to pay wages in full and on time.",
+            "source_paragraph_index": 2
+          },
+          {
+            "collocation": "lay a foundation for",
+            "meaning_zh": "为……奠定基础",
+            "example_sentence": "The guidelines lay a foundation for transforming jobs that were once temporary stopgaps into viable, stable careers.",
+            "source_paragraph_index": 4
+          },
+          {
+            "collocation": "safeguard entitlements",
+            "meaning_zh": "保障权益",
+            "example_sentence": "By standardizing employment practices, safeguarding entitlements, and opening pathways for career development, the guidelines lay a foundation for change.",
+            "source_paragraph_index": 4
+          }
+        ],
+        "familiar_words_unfamiliar_meanings": [
+          {
+            "word": "address",
+            "familiar_meaning": "地址（名词）；处理、解决（常见动词义如address a problem）",
+            "new_meaning_in_context": "应对；关照（指政策专门回应、针对某群体的需求）",
+            "example_sentence": "The Chinese government issued the first national-level policy document specifically addressing the needs of workers in new forms of employment.",
+            "source_paragraph_index": 0
+          },
+          {
+            "word": "front",
+            "familiar_meaning": "前面；前方（指空间方位）",
+            "new_meaning_in_context": "方面；领域（on the ... front 表示在某一方面）",
+            "example_sentence": "On the public services front, basic services should be provided based on place of residence rather than household registration.",
+            "source_paragraph_index": 3
+          },
+          {
+            "word": "govern",
+            "familiar_meaning": "统治；管理（指国家或政府治理）",
+            "new_meaning_in_context": "支配；约束（指规则或算法控制、决定工作方式）",
+            "example_sentence": "Platforms must guarantee workers' rights regarding algorithmic rules that govern their work.",
+            "source_paragraph_index": 2
+          }
+        ],
+        "common_errors": [
+          {
+            "error_description": "绝对化陷阱：将原文的渐进变化或部分描述夸大为'完全替代''全部解决'等绝对表述，如将'shifting'曲解为'completely replaced'",
+            "related_q_id": "Q1",
+            "tip": "看到completely、entirely、all等绝对化词汇时，回原文确认是否真有如此极端的表述。原文常使用shifting、transforming等表示'正在转变'的渐进词，而非'已经完全替代'。"
+          },
+          {
+            "error_description": "主体替换陷阱：将原文中某一主体的义务或权利偷换为另一主体，如将平台对算法透明的义务偷换为政府对算法的审批权",
+            "related_q_id": "Q2",
+            "tip": "细节定位题要特别关注动作的发出者是谁。选项若换了主语（如把'平台'换成'政府'、把'平台义务'换成'劳动者权利'），即使内容看似相关，也是主体偷换。"
+          },
+          {
+            "error_description": "立场反转陷阱：词义猜测题中将目标词的反义或对立面作为干扰项，如将stopgaps（临时替代）解释为'永久职位'或'非法工作'",
+            "related_q_id": "Q3",
+            "tip": "词义猜测时优先利用句内对比结构（如transforming...from...into...），目标词与对比项意思相反。stopgaps与viable, stable careers对立，因此不可能表示'永久'或'稳定'。"
+          },
+          {
+            "error_description": "立场反转与绝对化双重陷阱：推理题中将原文的'缺乏保护'反转为'享有同等福利'，或将'涉及多方'绝对化为'拒绝签约'",
+            "related_q_id": "Q4",
+            "tip": "推理题要严格基于原文逻辑链推断，不能引入原文没有的态度（如'更喜欢''拒绝'）或绝对化表述（如'any''the same...as'）。原文说'leave them without clear legal protection'，任何声称他们'享有同等保护'的选项都与原文立场相反。"
+          }
+        ],
+        "takeaway_version": 1
+      },
+      "explanations": [
+        {
+          "q_id": "Q1",
+          "reasoning_chain": "文章第1段第1句指出中国政府发布了首个针对新就业形态劳动者的国家级政策文件，第2句说明该文件旨在弥合长期存在的制度缺口；第2段阐述新就业形态劳动者面临的保障缺失问题；第3段和第4段分别从平台责任和公共服务两个层面说明政策具体内容；第5段第2句总结政策将临时性工作转变为稳定职业的基础。综合全文，核心主旨为中国发布国家指导意见以保护新就业形态劳动者并改革社会保障体系，对应选项A。",
+          "elimination_chain": "选项B属于\"主体替换\"陷阱，原文第3段第1句仅要求平台公司按时足额支付工资，并未提及平台公司拖欠工资需受政府惩罚，将政策义务偷换为惩罚性描述，且将全文核心从\"政策保障\"缩小为\"单一违规惩罚\"。选项C属于\"立场反转\"陷阱，原文第2段第1句明确说明传统工人签订劳动合同、缴纳社会保险并享受相应福利，这是作为背景对比使用的，文章从未暗示传统工人将失去社保福利，选项将对比关系曲解为损害关系。选项D属于\"绝对化\"陷阱，原文第5段第1句表述为社会保障体系正在从以工作单位为中心向以社会为中心转变（shifting），这是一个进行中的过程，而选项用\"completely replaced\"将渐进变化曲解为已完成的全面替代，属于典型的绝对化偷换。",
+          "test_point_one_liner": "主旨大意题：全文主旨概括与过度推断辨析",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q2",
+          "reasoning_chain": "题目要求根据指导意见判断平台公司对算法规则必须做什么。定位到第3段第2句：\"Additionally, platforms must improve transparency and guarantee workers' rights to be informed about, participate in, and make choices regarding algorithmic rules that govern their work.\"该句明确要求平台必须保障劳动者对算法规则的知情权、参与权和选择权，与选项B\"Guarantee workers' rights to be informed about, participate in, and make choices regarding them\"完全一致。",
+          "elimination_chain": "选项A属于\"立场反转\"陷阱，原文要求平台提高算法透明度并保障劳动者权利，而非用人工管理系统替代算法规则，将\"增加透明度与权利保障\"反向曲解为\"取消算法\"，与政策方向完全相反。选项C属于\"段落信息错位\"陷阱，\"决定薪酬（decide remuneration）\"的内容出现在第3段第1句\"set remuneration in line with workload\"，这是平台公司的义务而非劳动者通过算法决定的权利，选项将薪酬设定的主体从平台偷换为劳动者，且将两个不同要点（算法透明与薪酬设定）混为一谈。选项D属于\"主体替换\"陷阱，原文仅要求平台公司保障劳动者对算法规则的知情、参与和选择权，并未提及任何政府审批算法的流程，选项将义务主体从\"平台公司对劳动者负责\"偷换为\"政府对算法审批\"，属于无中生有。",
+          "test_point_one_liner": "细节理解题：定位原文信息与干扰项辨析",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q3",
+          "reasoning_chain": "题目要求推断最后一段中\"stopgaps\"的词义。定位到第5段第2句：\"the guidelines lay a foundation for transforming jobs that were once temporary stopgaps into viable, stable careers for tens of millions of workers.\"该句中\"transforming...from...into...\"结构构成反义对比，\"stopgaps\"与\"viable, stable careers\"形成对照：政策将曾经是temporary stopgaps的工作转变为稳定职业，因此stopgaps应表示\"临时的、不稳定的替代性工作\"，且前有\"temporary\"修饰，进一步明确其\"临时替代\"的含义，对应选项C\"Temporary substitutions used until something better is available\"。",
+          "elimination_chain": "选项A属于\"立场反转\"陷阱，\"stopgaps\"在句中与\"viable, stable careers\"构成对比，是被政策转变的对象，说明它本身不是稳定职业，而选项A却将其解释为\"享有完整福利的永久职位\"，与原文\"临时性、需被转变\"的语义完全相反。选项B属于\"绝对化\"陷阱，原文虽然指出新就业形态劳动者缺乏明确法律保护，但从未将这些工作定性为\"非法（Illegal）\"，且选项用\"without any protection\"绝对化表述，忽略了第3、4段所述平台和政府正在提供的部分保障措施，属于过度贬低的绝对化陷阱。选项D属于\"主体替换\"陷阱，原文讨论的是外卖骑手、网约车司机等灵活就业岗位，这些工作的特点恰恰是低门槛、非专业性，而选项将其解释为\"需要特殊培训的技能型职业\"，与文章描述的就业形态特征不符，属于语义方向性错误。",
+          "test_point_one_liner": "词义猜测题：语境反义对比与词义推断",
+          "explanation_version": 1
+        },
+        {
+          "q_id": "Q4",
+          "reasoning_chain": "题目要求根据第2段推断新就业形态劳动者的处境。定位到第2段第2句：\"However, workers in new forms of employment face considerable ambiguity because their flexible arrangements, which often involve platforms, outsourcing firms, and franchisees, create complex employment relationships that leave them without clear legal protection in areas such as pay, work injury insurance, and rest rights.\"该句指出：灵活就业安排涉及平台、外包公司和加盟商等多方主体，导致劳动关系复杂化，结果是劳动者在薪酬、工伤保险和休息权等方面缺乏明确的法律保护。由此可推断，正因为劳动关系牵涉多方、错综复杂，没有任何单一主体承担完整的法律责任，对应选项B。",
+          "elimination_chain": "选项A属于\"立场反转\"陷阱，原文第2段将传统工作单位模式作为背景对比，说明传统模式下工人有明确保障，但文章从未提及新就业形态劳动者\"更喜欢\"工作单位模式，更未将\"更好的薪酬\"作为其偏好理由，选项将客观描述的保障差距主观化为劳动者的偏好态度，且\"better pay\"在文中并非传统模式的核心优势，属于无中生有。选项C属于\"绝对化\"陷阱，原文第2段第2句指出灵活就业安排\"often involve\"外包公司，说明外包公司是就业关系中的参与方之一，但文章并未提及劳动者\"拒绝\"与外包公司签订任何劳动合同，\"refuse to sign any\"是绝对化表述，且第3段第1句指导意见要求平台使用适合该行业的劳动合同，间接说明合同签订是政策目标而非被劳动者拒绝的对象。选项D属于\"段落信息错位\"陷阱，原文第2段第2句明确指出新就业形态劳动者\"leave them without clear legal protection\"，即他们缺乏明确的法律保护，而传统工人在第1句中被描述为享受社会保险福利的对象，两者形成鲜明对比，选项D却说他们享有与传统工人相同的社会保险福利，与原文所述完全矛盾。",
+          "test_point_one_liner": "推理判断题：段落信息深层推断与干扰辨析",
+          "explanation_version": 1
+        }
+      ],
+      "review": {
+        "review_version": 1,
+        "reviewer": "content_reviewer",
+        "review_timestamp": "2026-05-12T02:30:00Z",
+        "dimensions": {
+          "fluency": {
+            "score": 8,
+            "comment": "文章语言自然流畅，语法正确，5段结构清晰，段间通过'However'、'The guidelines require'、'On the public services front'、'These guidelines emerge'等衔接词实现过渡，逻辑连贯。第1段首句略长（约37词）但结构完整可读，第2段第二句约43词嵌套定语从句稍显复杂但信息密度合理，不影响整体流畅度。词汇选择准确（ambiguity、entitlements、stopgaps），学术语体得体。扣分点：第2段第二句'which often involve platforms, outsourcing firms, and franchisees'定语从句嵌套在because从句中，三层嵌套对高中生而言略吃力；第4段'allowing services to follow the flow of workers'中'flow'一词稍显抽象，可考虑更直白的表述。整体瑕不掩瑜。",
+            "pass": true
+          },
+          "unique_correct_answer": {
+            "score": 9,
+            "comment": "4道题的正确答案均唯一且明确。Q1主旨题A选项精准概括全文，B/C/D分别从主体替换、立场反转、绝对化角度设置干扰，无歧义。Q2细节题B选项与原文完全一致，A（取消算法）、C（劳动者决定薪酬）、D（政府审批算法）均与原文明确矛盾。Q3词义题C选项'temporary substitutions'与stopgaps完全对应，A（永久职位）和D（技能型职业）语义方向相反，B（非法工作）过度贬低，均无法构成合理替代。Q4推理题B选项从'complex employment relationships that leave them without clear legal protection'合理推断出无单一主体承担全责，A引入'prefer'主观态度无据，C的'refuse to sign any'绝对化，D与原文'without clear legal protection'直接矛盾。每道题均只有一个无可争议的正确答案。",
+            "pass": true
+          },
+          "explanation_persuasiveness": {
+            "score": 9,
+            "comment": "4道题的推理链和排除链均详实有据。Q1推理链从首段政策背景到末段总结，完整覆盖全文脉络；排除链对B（主体替换：将政策义务缩小为惩罚性描述）、C（立场反转：将对比关系曲解为损害关系）、D（绝对化：shifting vs completely replaced）分析精准。Q2推理链直接引用原文'd guarantee workers' rights to be informed about, participate in, and make choices regarding algorithmic rules'，与B选项完全匹配；排除链逐一分析A（立场反转：透明度保障→取消算法）、C（段落信息错位：薪酬设定主体偷换）、D（主体替换：平台义务→政府审批），逻辑清晰。Q3利用transforming...from...into...反义对比结构推断stopgaps词义，方法示范性强；排除链对A（立场反转）、B（绝对化：without any）、D（主体替换：低门槛→高技能）分析到位。Q4推理链从'complex employment relationships'到'leave them without clear legal protection'推导出无单一主体承担全责，推断合理；排除链指出A（无中生有的'prefer'态度）、C（绝对化'any'）、D（与原文直接矛盾），均有原文依据。推理链和排除链均引用原文关键表述，学生可循证理解。",
+            "pass": true
+          },
+          "distractor_reasonableness": {
+            "score": 8,
+            "comment": "干扰项设计整体巧妙，陷阱类型多样且覆盖4类（立场反转、绝对化、主体替换、段落信息错位）。亮点：Q1的D选项'completely replaced'利用原文确有'shifting'一词，学生若粗心容易将渐进变化误读为完全替代，陷阱隐蔽性强。Q2的C选项将'薪酬设定（set remuneration）'与'算法规则'两个段落内不同要点混搭，看似相关实则主体错位，迷惑性高。Q4的B选项'no single party takes full legal responsibility'的推断需要跨越'complex employment relationships'到'无人全责'的逻辑跳跃，推理深度适中。扣分点：Q3的B选项'Illegal jobs without any protection'略显极端，'Illegal'一词与原文语境偏差较大（原文只说缺乏明确法律保护，从未暗示非法），中等水平学生不太可能被此选项吸引；D选项'Skilled occupations requiring special training'与文章描述的外卖骑手、网约车司机等低门槛岗位特征差异过于明显，容易被排除。Q2的A选项'用人工管理系统替代算法'与政策方向偏差较大，原文明确要求提高算法透明度而非取消算法，稍有阅读能力的学生即可排除。",
+            "pass": true
+          },
+          "takeaway_usefulness": {
+            "score": 9,
+            "comment": "收获部分内容丰富且实用。新搭配5组：close a gap（弥合缺口）、in line with（与……一致）、pay wages in full and on time（按时足额支付工资）、lay a foundation for（为……奠定基础）、safeguard entitlements（保障权益），均为高考高频搭配，例句均出自原文或基于原文简化，便于学生回看上下文巩固。熟词生义3组：address（应对/关照）、front（方面/领域）、govern（支配/约束），选择精准，均利用了学生熟悉的常用义作跳板引出生义，且新义在文中均有明确的上下文线索可循。易错点4条覆盖4道题，分别对应绝对化陷阱、主体替换陷阱、立场反转陷阱、立场反转与绝对化双重陷阱，提示语实操性强（如'看到completely、entirely、all等绝对化词汇时回原文确认'、'优先利用句内对比结构推断词义'）。扣分点：'pay wages in full and on time'搭配较长且偏向政策用语，高考阅读中出现频率相对较低，实用性略逊于其余4组；'govern'的生义'支配/约束'与常见义'统治/管理'差异不算特别大，学生可能认为只是延伸义而非生义。整体而言收获内容学习价值高，4类陷阱的提示语可直接作为学生答题策略使用。",
+            "pass": true
+          }
+        },
+        "overall_score": 8.6,
+        "overall_pass": true,
+        "rewrite_targets": []
+      }
+    }
+  ]
+}
