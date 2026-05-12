@@ -1,0 +1,27 @@
+{
+  "issue_id": "W2026W19",
+  "issue_date": "2026-05-09",
+  "max_retries": 2,
+  "articles": [
+    {
+      "seq": 1,
+      "topic_category": "technology",
+      "preferred_sources": ["The Economist", "Scientific American"]
+    },
+    {
+      "seq": 2,
+      "topic_category": "environment",
+      "preferred_sources": ["The Guardian", "Scientific American"]
+    },
+    {
+      "seq": 3,
+      "topic_category": "health",
+      "preferred_sources": ["Scientific American", "New York Times"]
+    },
+    {
+      "seq": 4,
+      "topic_category": "society",
+      "preferred_sources": ["New York Times", "The Economist"]
+    }
+  ]
+}
